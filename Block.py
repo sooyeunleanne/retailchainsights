@@ -19,3 +19,19 @@ class Block:
         }, sort_keys = True).encode()
 
         return hashlib.sha256(block_string).hexdigest()
+
+#example usage
+data = {
+    'item': '우유',
+    'price': 3000,
+    'date': '2025-05-06'
+}
+
+genesis_block = Block(0, data, '0')
+
+print("📦 Genesis Block Info:")
+print("Index:", genesis_block.index)
+print("Timestamp:", genesis_block.timestamp)
+print("Data:", genesis_block.data)
+print("Previous Hash:", genesis_block.previous_hash)
+print("Current Hash:", genesis_block.hash)
