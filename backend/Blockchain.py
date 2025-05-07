@@ -17,19 +17,21 @@ class Blockchain:
     def print_chain(self):
         for block in self.chain:
             print(f'Index: {block.index}')
-            print(f'Timestamp: {block.timestamp}')
+            print(f'Timestamp: {block.timestamp}') 
             print(f'Data: {block.data}')
             print(f'Previous Hash: {block.previous_hash}')
             print(f'Hash: {block.hash}')
             print('-' * 40)
 
-#example usage
-blockchain = Blockchain() #make a blockchain
 
-# 새 블록 추가
-blockchain.add_block('First block data')
-blockchain.add_block('Second block data')
-blockchain.add_block('Third block data')
+# example usage
+if __name__ == "__main__":
+    blockchain = Blockchain() #make a blockchain
+    # 새 블록 추가
+    blockchain.add_block('First block data')
+    blockchain.add_block('Second block data')
+    blockchain.add_block('Third block data')
 
-# 블록체인 내용 출력
-blockchain.print_chain()
+    # 블록체인 내용 출력
+    blockchain.print_chain()
+
