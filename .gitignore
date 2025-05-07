@@ -1,0 +1,17 @@
+# blockchain-temps
+__pycache__/
+*.py[cod]
+*.so
+
+env/
+venv/
+.venv/
+
+.vscode/
+
+# MacOS
+.DS_Store
+Thumbs.db
+
+# Git
+*.swp
