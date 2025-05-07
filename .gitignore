@@ -10,7 +10,7 @@ venv/
 .vscode/
 
 # MacOS
-.DS_Store
+.DS_Store 
 Thumbs.db
 
 # Git
