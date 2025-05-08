@@ -3,10 +3,12 @@ import time
 import json
 
 class Block:
-    def __init__(self, index, data, previous_hash=''): #constructor
+    def __init__(self, index, product, price, date, previous_hash=''): #constructor
         self.index = index
         self.timestamp = time.time()
-        self.data = data
+        self.product = product
+        self.price = price
+        self.date = date
         self.previous_hash = previous_hash #이전 블록 해시
         self.hash = self.calculate_hash() #현재 블록의 고유 해시 값
     
@@ -14,7 +16,9 @@ class Block:
         block_string = json.dumps({
             'index': self.index,
             'timestamp': self.timestamp,
-            'data': self.data,
+            'product': self.product,
+            'price': self.price,
+            'date': self.date,
             'previous_hash': self.previous_hash
         }, sort_keys = True).encode()
 
