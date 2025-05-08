@@ -23,6 +23,9 @@ class Block:
         }, sort_keys = True).encode()
 
         return hashlib.sha256(block_string).hexdigest()
+    
+    def get_date(self):
+        return self.date
 
 #example usage
 if __name__ == "__main__":    

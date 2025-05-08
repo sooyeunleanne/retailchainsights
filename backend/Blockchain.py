@@ -1,5 +1,6 @@
 from Block import Block 
 import csv
+from datetime import datetime
 
 class Blockchain:
     def __init__(self):
@@ -34,13 +35,16 @@ class Blockchain:
             writer.writerow(['Index', 'Timestamp', 'Product', 'Price', 'Date', 'Previous Hash', 'Hash'])
             
             # Write block data
-            for block in self.chain:
+            for block in self.chain[1:]:
+                raw_date = block.get_date()  # e.g., '2017-01'
+                formatted_date = datetime.strptime(raw_date, '%Y-%m').date()  # gives 2017-01-01
+
                 writer.writerow([
                     block.index,
                     block.timestamp,
                     block.product,
                     block.price,
-                    block.date,
+                    formatted_date.isoformat(),
                     block.previous_hash,
                     block.hash
                 ])
