@@ -1,4 +1,5 @@
 from Block import Block 
+import csv
 
 class Blockchain:
     def __init__(self):
@@ -22,6 +23,24 @@ class Blockchain:
             print(f'Previous Hash: {block.previous_hash}')
             print(f'Hash: {block.hash}')
             print('-' * 40)
+
+    def export_chain_to_csv(self, filename):
+        with open(filename, mode='w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file)
+            
+            # Write header
+            writer.writerow(['Index', 'Timestamp', 'Data', 'Previous Hash', 'Hash'])
+            
+            # Write block data
+            for block in self.chain:
+                writer.writerow([
+                    block.index,
+                    block.timestamp,
+                    block.data,
+                    block.previous_hash,
+                    block.hash
+                ])
+        
 
 
 # example usage
