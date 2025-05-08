@@ -15,3 +15,5 @@ Thumbs.db
 
 # Git
 *.swp
+
+fetchedData.csv

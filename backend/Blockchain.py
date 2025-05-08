@@ -7,19 +7,21 @@ class Blockchain:
         self.create_genesis_block() #generate the first block
     
     def create_genesis_block(self): #first block, index 0
-        genesis_block = Block(0, 'Genesis Block', 0)
+        genesis_block = Block(0, 'Genesis Block', 0, 0, 0)
         self.chain.append(genesis_block)
     
     def add_block(self, data): #add a new block
         previous_block = self.chain[-1]
-        new_block = Block(len(self.chain), data, previous_block.hash)
+        new_block = Block(len(self.chain), data['product'], data['price'], data['date'], previous_block.hash)
         self.chain.append(new_block)
     
     def print_chain(self):
         for block in self.chain:
             print(f'Index: {block.index}')
             print(f'Timestamp: {block.timestamp}') 
-            print(f'Data: {block.data}')
+            print(f'Product: {block.product}')
+            print(f'Price: {block.price}')    
+            print(f'Date: {block.date}')                                
             print(f'Previous Hash: {block.previous_hash}')
             print(f'Hash: {block.hash}')
             print('-' * 40)
@@ -29,14 +31,16 @@ class Blockchain:
             writer = csv.writer(file)
             
             # Write header
-            writer.writerow(['Index', 'Timestamp', 'Data', 'Previous Hash', 'Hash'])
+            writer.writerow(['Index', 'Timestamp', 'Product', 'Price', 'Date', 'Previous Hash', 'Hash'])
             
             # Write block data
             for block in self.chain:
                 writer.writerow([
                     block.index,
                     block.timestamp,
-                    block.data,
+                    block.product,
+                    block.price,
+                    block.date,
                     block.previous_hash,
                     block.hash
                 ])
