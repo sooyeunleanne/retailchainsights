@@ -76,26 +76,6 @@ class Blockchain:
                     block.previous_hash,
                     block.hash
                 ])
-    
-    def export_chain_to_json(self, file_path):
-        data_list = []
-
-        for block in self.chain[1:]:
-            raw_date = block.get_date()  # e.g., '2017-01'
-            formatted_date = datetime.strptime(raw_date, '%Y-%m').date()  # gives 2017-01-01
-
-            data_list.append({
-                "Index": block.index,
-                "Timestamp": block.timestamp,
-                "Product": block.data['product'],
-                "Price": block.data['price'],
-                "Date": formatted_date.isoformat(),
-                "Previous Hash": block.previous_hash,
-                "Hash": block.hash
-            })
-                
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(data_list, f, ensure_ascii=False, indent=4)
 
 
 # example usage
