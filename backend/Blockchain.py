@@ -16,6 +16,33 @@ class Blockchain:
         previous_block = self.chain[-1]
         new_block = Block(len(self.chain), data['product'], data['price'], data['date'], previous_block.hash)
         self.chain.append(new_block)
+
+        
+    def remove_block(self, cond_fn):
+        print("Starting blockchain cleaning...")
+
+        new_chain = []
+        new_chain.append(self.chain[0]) # add gen block
+
+        for block in self.chain[1:]:    # excluding the gen block
+            if cond_fn(block):
+                print(f"Removing block with data: {block.data}")
+            continue
+
+        new_chain.append(block)
+
+        # update indices, hashes, previous hashes
+        for i in range(len(new_chain)):
+            new_chain[i].index = i
+            if i != 0:
+                new_chain[i].previous_hash = new_chain[i - 1].hash
+            else: 
+                new_chain[i].previous_hash = '0'
+                new_chain[i].hash = new_chain[i].calculate_hash()
+
+            self.chain = new_chain
+            print("Blockchain cleaned successfully!")
+
     
     def print_chain(self):
         for block in self.chain:
