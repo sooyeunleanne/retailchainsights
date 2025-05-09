@@ -1,23 +1,9 @@
-from Blockchain import Blockchain
+from Blockchain import *
 from mainAlgorithm import get_data
+from chainExportFunctions import *
 
-blockchain = Blockchain()
-
-# stores data in the blockchain model
-def store_data(df):
-  for _, row in df.iterrows():
-    data = {
-      'product': row.get('Products', 'Unknown'),  # default to Unknown if Product not found
-      'price': row.get('VALUE', 0),
-      'date': row.get('REF_DATE')
-    }
-    blockchain.add_block(data)
-
-# sample usage
-if __name__ == "__main__":
-  url = input("Enter URL of the dataset: ")
-  df = get_data(url)
-  store_data(df)
-  # blockchain.print_chain() # prints EVERYTHING, for now
-  blockchain.export_chain_to_json('fetchedData.json')
-
+#Retail price
+df = get_data("https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1810024501")
+retailPriceBlockchain = store_data(df)
+# blockchain.print_chain() # prints EVERYTHING, for now
+export_retail_price_chain_to_json(retailPriceBlockchain, 'fetchedData/retailPriceData.json')

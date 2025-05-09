@@ -1,6 +1,6 @@
 from Block import Block 
 import csv
-import json
+from mainAlgorithm import get_data
 from datetime import datetime
 
 class Blockchain:
@@ -77,15 +77,16 @@ class Blockchain:
                     block.hash
                 ])
 
+# stores data in the blockchain model
+def store_data(df):
+    blockchain = Blockchain()
 
-# example usage
-if __name__ == "__main__":
-    blockchain = Blockchain() #make a blockchain
-    # 새 블록 추가
-    blockchain.add_block('First block data')
-    blockchain.add_block('Second block data')
-    blockchain.add_block('Third block data')
+    for _, row in df.iterrows():
+        data = {
+        'product': row.get('Products', 'Unknown'),  # default to Unknown if Product not found
+        'price': row.get('VALUE', 0),
+        'date': row.get('REF_DATE')
+        }
+    blockchain.add_block(data)
 
-    # 블록체인 내용 출력
-    blockchain.print_chain()
-
+    return blockchain
