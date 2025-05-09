@@ -19,5 +19,5 @@ if __name__ == "__main__":
   df = get_data(url)
   store_data(df)
   # blockchain.print_chain() # prints EVERYTHING, for now
-  blockchain.export_chain_to_csv('fetchedData.csv')
+  blockchain.export_chain_to_json('fetchedData.json')
 
