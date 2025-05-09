@@ -1,5 +1,7 @@
 from Block import Block 
 import csv
+import json
+from datetime import datetime
 
 class Blockchain:
     def __init__(self):
@@ -61,17 +63,39 @@ class Blockchain:
             writer.writerow(['Index', 'Timestamp', 'Product', 'Price', 'Date', 'Previous Hash', 'Hash'])
             
             # Write block data
-            for block in self.chain:
+            for block in self.chain[1:]:
+                raw_date = block.get_date()  # e.g., '2017-01'
+                formatted_date = datetime.strptime(raw_date, '%Y-%m').date()  # gives 2017-01-01
+
                 writer.writerow([
                     block.index,
                     block.timestamp,
                     block.product,
                     block.price,
-                    block.date,
+                    formatted_date.isoformat(),
                     block.previous_hash,
                     block.hash
                 ])
-        
+    
+    def export_chain_to_json(self, file_path):
+        data_list = []
+
+        for block in self.chain[1:]:
+            raw_date = block.get_date()  # e.g., '2017-01'
+            formatted_date = datetime.strptime(raw_date, '%Y-%m').date()  # gives 2017-01-01
+
+            data_list.append({
+                "Index": block.index,
+                "Timestamp": block.timestamp,
+                "Product": block.product,
+                "Price": block.price,
+                "Date": formatted_date.isoformat(),
+                "Previous Hash": block.previous_hash,
+                "Hash": block.hash
+            })
+                
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(data_list, f, ensure_ascii=False, indent=4)
 
 
 # example usage
