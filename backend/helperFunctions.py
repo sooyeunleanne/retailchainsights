@@ -2,10 +2,10 @@ from Blockchain import Blockchain
 from mainAlgorithm import get_data
 from datetime import datetime
 
-blockchain = Blockchain()
-
 # stores data in the blockchain model
 def store_data(df):
+  blockchain = Blockchain()
+
   for _, row in df.iterrows():
     data = {
       'product': row.get('Products', 'Unknown'),  # default to Unknown if Product not found
@@ -13,30 +13,21 @@ def store_data(df):
       'date': row.get('REF_DATE')
     }
     blockchain.add_block(data)
+  return blockchain
 
 
-def cond_date(block, from_date, to_date):
-  from_date = datetime.strptime(from_date, "%Y-%m")
-  to_date = datetime.strptime(to_date, "%Y-%m")
+def store_exchange_data(df):
+  blockchain = Blockchain()
 
-  block_date_str = str(block.date)
-  print("String date: ", {block_date_str})
-  
-  if not block_date_str:
-    print(f"Block is missing a date: {block.date}")
-    return False
-  
-  try:
-    block_date = datetime.strptime(block_date_str, "%Y-%m")
-  except ValueError:
-    print(f"Block has an invalid date format: {block_date_str}")
-    return False
-  
-  return block_date < from_date or block_date > to_date
+  for _, row in df.iterrows():
+    data = {
+      'product': row.get('Type of currency', 'Unknown'),
+      'price': row.get('VALUE', 'NaN'),
+      'date': row.get('REF_DATE')
+    }
+    blockchain.add_block(data)
+  return blockchain
 
-
-def cond_product(block, product):
-  return block.product == product
 
 
 # sample usage
@@ -45,12 +36,6 @@ if __name__ == "__main__":
   df = get_data(url)
   store_data(df)
 
-  product = input("Enter product to view: ")
-  from_date = input("Enter start date (YYYY-MM): ")
-  to_date = input("Enter end date (YYYY-MM): ")
+  blockchain = Blockchain()
 
-  def condition(block):
-    return cond_product(block, product) or cond_date(block, from_date, to_date)
-
-  blockchain.remove_block(condition)
-  blockchain.print_chain()
+  

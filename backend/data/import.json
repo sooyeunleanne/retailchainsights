@@ -102,14 +102,15 @@
     "Oranges, 1.36 kilograms",
     "Grapes, per kilogram"
   ],
-  "GERMANY": ["Bananas, per kilogram", "Avocado, unit"],
   "HK": ["Pears, per kilogram"],
   "UK": [
     "Tea (20 bags)",
     "Baby food, 128 millilitres",
-    "Infant formula, 900 grams"
+    "Avocado, unit",
+    "Bananas, per kilogram",
+    "Infant formula, 900 grams",
+    "Toothpaste, 100 millilitres"
   ],
   "INDIA": ["Dried lentils, 900 grams"],
-  "INDONESIA": ["Almonds, 200 grams"],
-  "NETHERLANDS": ["Toothpaste, 100 millilitres"]
+  "INDONESIA": ["Almonds, 200 grams"]
 }
