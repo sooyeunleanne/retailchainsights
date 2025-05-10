@@ -41,6 +41,19 @@ def store_gdp_data(df):
 
   return blockchain 
 
+def store_employment_data(df):
+  blockchain = Blockchain()
+
+  for _, row in df.iterrows():
+    if ((row.get('Gender') == 'Total - Gender') and (row.get('Age group') == '15 years and over') and (row.get('COORDINATE') == '1.3.1.1.1')):
+      data = {
+        'employment': row.get('VALUE'),
+        'date': row.get('REF_DATE')
+      }
+      blockchain.add_block(data)
+
+  return blockchain 
+
 # sample usage
 if __name__ == "__main__":
   url = input("Enter URL of the dataset: ")
