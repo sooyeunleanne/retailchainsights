@@ -1,0 +1,2050 @@
+[
+    {
+        "Index": 1,
+        "Timestamp": 1746916104.886434,
+        "GDPIndex": NaN,
+        "Date": "1961-01-01",
+        "Previous Hash": "1e5a676504c9f1fbd5227882f705e1f725de07fb55a96e8ca8a9d60d4d511b70",
+        "Hash": "2d64a202189b0cc1367dcbfee35a9fb5fd0a8f1710f61b5ff5e376e4337f84ea"
+    },
+    {
+        "Index": 2,
+        "Timestamp": 1746916104.8892028,
+        "GDPIndex": 2.532,
+        "Date": "1961-04-01",
+        "Previous Hash": "2d64a202189b0cc1367dcbfee35a9fb5fd0a8f1710f61b5ff5e376e4337f84ea",
+        "Hash": "5df826285296ae471088dff534279b02378e8a5ad702c5c21ff0bcaa3e3ef509"
+    },
+    {
+        "Index": 3,
+        "Timestamp": 1746916104.8920221,
+        "GDPIndex": 2.433,
+        "Date": "1961-07-01",
+        "Previous Hash": "5df826285296ae471088dff534279b02378e8a5ad702c5c21ff0bcaa3e3ef509",
+        "Hash": "79c96a4ab6428d0c7150cf80b110786b5016df9ba6c693f4c012edcb7352dae1"
+    },
+    {
+        "Index": 4,
+        "Timestamp": 1746916104.894791,
+        "GDPIndex": 1.361,
+        "Date": "1961-10-01",
+        "Previous Hash": "79c96a4ab6428d0c7150cf80b110786b5016df9ba6c693f4c012edcb7352dae1",
+        "Hash": "1078f70216f1a58ef7189d05c610c128647ac585133c4b809e70d879aee9e705"
+    },
+    {
+        "Index": 5,
+        "Timestamp": 1746916104.897533,
+        "GDPIndex": 2.661,
+        "Date": "1962-01-01",
+        "Previous Hash": "1078f70216f1a58ef7189d05c610c128647ac585133c4b809e70d879aee9e705",
+        "Hash": "ee45065366574f1a0c65ea51f4a8136118f0c2fea1355c0d4c44a62c23efb02a"
+    },
+    {
+        "Index": 6,
+        "Timestamp": 1746916104.9002829,
+        "GDPIndex": 0.795,
+        "Date": "1962-04-01",
+        "Previous Hash": "ee45065366574f1a0c65ea51f4a8136118f0c2fea1355c0d4c44a62c23efb02a",
+        "Hash": "5aeea57245081b649cb25083c72f19be95904bcc1ef7991b5d60f15c6195ef8c"
+    },
+    {
+        "Index": 7,
+        "Timestamp": 1746916104.90297,
+        "GDPIndex": 1.279,
+        "Date": "1962-07-01",
+        "Previous Hash": "5aeea57245081b649cb25083c72f19be95904bcc1ef7991b5d60f15c6195ef8c",
+        "Hash": "189e365a8255d9caa730c9885d6ff49926c86fdbadf4833ca61373bf5c9caf20"
+    },
+    {
+        "Index": 8,
+        "Timestamp": 1746916104.9057212,
+        "GDPIndex": 1.962,
+        "Date": "1962-10-01",
+        "Previous Hash": "189e365a8255d9caa730c9885d6ff49926c86fdbadf4833ca61373bf5c9caf20",
+        "Hash": "2fbeebb2ca253d4d08b52e9e8c540ae1bb84c9f4a0ba3ccf809ea2c5e9375b5d"
+    },
+    {
+        "Index": 9,
+        "Timestamp": 1746916104.908523,
+        "GDPIndex": 0.634,
+        "Date": "1963-01-01",
+        "Previous Hash": "2fbeebb2ca253d4d08b52e9e8c540ae1bb84c9f4a0ba3ccf809ea2c5e9375b5d",
+        "Hash": "23e679b91464101027c6218de178ac8057d4d55f71fced8cffd63f79dabd21ad"
+    },
+    {
+        "Index": 10,
+        "Timestamp": 1746916104.9114392,
+        "GDPIndex": 1.454,
+        "Date": "1963-04-01",
+        "Previous Hash": "23e679b91464101027c6218de178ac8057d4d55f71fced8cffd63f79dabd21ad",
+        "Hash": "b8439dbcf81688cc85999e572030faf9eaf5f8dfd2c5fad519b841f73cb48c63"
+    },
+    {
+        "Index": 11,
+        "Timestamp": 1746916104.914251,
+        "GDPIndex": 0.76,
+        "Date": "1963-07-01",
+        "Previous Hash": "b8439dbcf81688cc85999e572030faf9eaf5f8dfd2c5fad519b841f73cb48c63",
+        "Hash": "379c29fdd8c27af2cd23a52fe5fdbb0836aa7153c080c6a5befce154f3075ade"
+    },
+    {
+        "Index": 12,
+        "Timestamp": 1746916104.917217,
+        "GDPIndex": 3.129,
+        "Date": "1963-10-01",
+        "Previous Hash": "379c29fdd8c27af2cd23a52fe5fdbb0836aa7153c080c6a5befce154f3075ade",
+        "Hash": "cb46a739c4c68ae2ecbb83f7c298ca96d0e8a8ff4a26b9f9fa80183feb5a3780"
+    },
+    {
+        "Index": 13,
+        "Timestamp": 1746916104.920115,
+        "GDPIndex": 2.503,
+        "Date": "1964-01-01",
+        "Previous Hash": "cb46a739c4c68ae2ecbb83f7c298ca96d0e8a8ff4a26b9f9fa80183feb5a3780",
+        "Hash": "cd3ac04fbc0a31669c980d54bca3388b8cd929d88d1742dfcad6acc6b81ce464"
+    },
+    {
+        "Index": 14,
+        "Timestamp": 1746916104.923079,
+        "GDPIndex": 0.375,
+        "Date": "1964-04-01",
+        "Previous Hash": "cd3ac04fbc0a31669c980d54bca3388b8cd929d88d1742dfcad6acc6b81ce464",
+        "Hash": "9cfcc0231b96b304ab2938c4658857bf2adfed55f37786f1728e428d52b56e05"
+    },
+    {
+        "Index": 15,
+        "Timestamp": 1746916104.926091,
+        "GDPIndex": 1.067,
+        "Date": "1964-07-01",
+        "Previous Hash": "9cfcc0231b96b304ab2938c4658857bf2adfed55f37786f1728e428d52b56e05",
+        "Hash": "edf1b3c4a63e1f417d6856b25e28495159192d99a46ae434063473d79054d566"
+    },
+    {
+        "Index": 16,
+        "Timestamp": 1746916104.928957,
+        "GDPIndex": 0.502,
+        "Date": "1964-10-01",
+        "Previous Hash": "edf1b3c4a63e1f417d6856b25e28495159192d99a46ae434063473d79054d566",
+        "Hash": "bc01e3a6cec9952048a046516a106992b68ee2102a4fc791b445e677e053130d"
+    },
+    {
+        "Index": 17,
+        "Timestamp": 1746916104.931814,
+        "GDPIndex": 3.181,
+        "Date": "1965-01-01",
+        "Previous Hash": "bc01e3a6cec9952048a046516a106992b68ee2102a4fc791b445e677e053130d",
+        "Hash": "aa08e4b6305686e5058fafe6df88860a8ac5de0293b2724b963e5cd1cf63e175"
+    },
+    {
+        "Index": 18,
+        "Timestamp": 1746916104.9345942,
+        "GDPIndex": 0.916,
+        "Date": "1965-04-01",
+        "Previous Hash": "aa08e4b6305686e5058fafe6df88860a8ac5de0293b2724b963e5cd1cf63e175",
+        "Hash": "06e57be4ff8defdf0bb7ddfe48f0cf8355f3b0b01b6a8be051c0224d210890c0"
+    },
+    {
+        "Index": 19,
+        "Timestamp": 1746916104.93734,
+        "GDPIndex": 1.396,
+        "Date": "1965-07-01",
+        "Previous Hash": "06e57be4ff8defdf0bb7ddfe48f0cf8355f3b0b01b6a8be051c0224d210890c0",
+        "Hash": "8b59a85f3d5f2583a63c455b6c0d70b6e81c5d29c69ae4f8e2ffa3881c5617dc"
+    },
+    {
+        "Index": 20,
+        "Timestamp": 1746916104.940186,
+        "GDPIndex": 2.451,
+        "Date": "1965-10-01",
+        "Previous Hash": "8b59a85f3d5f2583a63c455b6c0d70b6e81c5d29c69ae4f8e2ffa3881c5617dc",
+        "Hash": "ce2dd97903639b15c088f68ed43c8341559fb9f289a4e3ea4981c32cc034425a"
+    },
+    {
+        "Index": 21,
+        "Timestamp": 1746916104.943151,
+        "GDPIndex": 1.946,
+        "Date": "1966-01-01",
+        "Previous Hash": "ce2dd97903639b15c088f68ed43c8341559fb9f289a4e3ea4981c32cc034425a",
+        "Hash": "75d09d524bd077200381fe8432815cd6d588a96a520d8098efe949adc4e18b47"
+    },
+    {
+        "Index": 22,
+        "Timestamp": 1746916104.945963,
+        "GDPIndex": 2.159,
+        "Date": "1966-04-01",
+        "Previous Hash": "75d09d524bd077200381fe8432815cd6d588a96a520d8098efe949adc4e18b47",
+        "Hash": "d8d9ea074326ef3283d0e879fa5153327439ea1d14bb27f4a9645c5ed1ab1d25"
+    },
+    {
+        "Index": 23,
+        "Timestamp": 1746916104.948819,
+        "GDPIndex": -0.048,
+        "Date": "1966-07-01",
+        "Previous Hash": "d8d9ea074326ef3283d0e879fa5153327439ea1d14bb27f4a9645c5ed1ab1d25",
+        "Hash": "e044432a5e4b79ddac7621d21e0faf9e772808847a009874c6c0ab750e748401"
+    },
+    {
+        "Index": 24,
+        "Timestamp": 1746916104.951658,
+        "GDPIndex": 1.239,
+        "Date": "1966-10-01",
+        "Previous Hash": "e044432a5e4b79ddac7621d21e0faf9e772808847a009874c6c0ab750e748401",
+        "Hash": "09f780b076e2c6ddb678f8017463028d1fe0cc5bf346e3fbc889e8731d4848ee"
+    },
+    {
+        "Index": 25,
+        "Timestamp": 1746916104.954571,
+        "GDPIndex": -0.225,
+        "Date": "1967-01-01",
+        "Previous Hash": "09f780b076e2c6ddb678f8017463028d1fe0cc5bf346e3fbc889e8731d4848ee",
+        "Hash": "a50e19b39c70aed811441b51e578eb50d85ac822c587b533ee278938aa0fe5cb"
+    },
+    {
+        "Index": 26,
+        "Timestamp": 1746916104.957377,
+        "GDPIndex": 2.083,
+        "Date": "1967-04-01",
+        "Previous Hash": "a50e19b39c70aed811441b51e578eb50d85ac822c587b533ee278938aa0fe5cb",
+        "Hash": "75a240bc67561963fa45f25e13cbc8e57e1c935fe20ce9290b8d1ec2d2f7040c"
+    },
+    {
+        "Index": 27,
+        "Timestamp": 1746916104.9602408,
+        "GDPIndex": 0.315,
+        "Date": "1967-07-01",
+        "Previous Hash": "75a240bc67561963fa45f25e13cbc8e57e1c935fe20ce9290b8d1ec2d2f7040c",
+        "Hash": "4c24354fd7d1e39394d2ae2f81d3cd6524c11b13d939e7f3434fd08af64f06b7"
+    },
+    {
+        "Index": 28,
+        "Timestamp": 1746916104.963122,
+        "GDPIndex": 0.436,
+        "Date": "1967-10-01",
+        "Previous Hash": "4c24354fd7d1e39394d2ae2f81d3cd6524c11b13d939e7f3434fd08af64f06b7",
+        "Hash": "ffeb5fea077989b7617bdeaf0b69a710aecdfa70a58b181b57a85dc844cf5e37"
+    },
+    {
+        "Index": 29,
+        "Timestamp": 1746916104.965927,
+        "GDPIndex": 0.852,
+        "Date": "1968-01-01",
+        "Previous Hash": "ffeb5fea077989b7617bdeaf0b69a710aecdfa70a58b181b57a85dc844cf5e37",
+        "Hash": "6ecb45ec53c79c793df9372ad99ab06449d56505406543fa91bf3fd09b0535ce"
+    },
+    {
+        "Index": 30,
+        "Timestamp": 1746916104.968742,
+        "GDPIndex": 2.688,
+        "Date": "1968-04-01",
+        "Previous Hash": "6ecb45ec53c79c793df9372ad99ab06449d56505406543fa91bf3fd09b0535ce",
+        "Hash": "d19ea03854a5771a654fd6848021d90bc713a50969cd069b69923752d5ad5162"
+    },
+    {
+        "Index": 31,
+        "Timestamp": 1746916104.971627,
+        "GDPIndex": 1.393,
+        "Date": "1968-07-01",
+        "Previous Hash": "d19ea03854a5771a654fd6848021d90bc713a50969cd069b69923752d5ad5162",
+        "Hash": "c5d3c279286e60a4950c70518ae23b5093f90abadcbcdff115c0a34ba041abb0"
+    },
+    {
+        "Index": 32,
+        "Timestamp": 1746916104.9746182,
+        "GDPIndex": 1.385,
+        "Date": "1968-10-01",
+        "Previous Hash": "c5d3c279286e60a4950c70518ae23b5093f90abadcbcdff115c0a34ba041abb0",
+        "Hash": "0eba6e6ce8cd946ba5b15e6dbc7f80dff862d80558108d249b284fdb32b8c1b4"
+    },
+    {
+        "Index": 33,
+        "Timestamp": 1746916104.977429,
+        "GDPIndex": 1.369,
+        "Date": "1969-01-01",
+        "Previous Hash": "0eba6e6ce8cd946ba5b15e6dbc7f80dff862d80558108d249b284fdb32b8c1b4",
+        "Hash": "75451b5032b852b55a1ba6a010abe8fbca2874109261d84f6dc6a7482ccee7fa"
+    },
+    {
+        "Index": 34,
+        "Timestamp": 1746916104.98033,
+        "GDPIndex": 0.411,
+        "Date": "1969-04-01",
+        "Previous Hash": "75451b5032b852b55a1ba6a010abe8fbca2874109261d84f6dc6a7482ccee7fa",
+        "Hash": "fae7e52ee7db1e29d63ba849a4436b5ba88d26169b6cab1b2de2f73d01f739c4"
+    },
+    {
+        "Index": 35,
+        "Timestamp": 1746916104.983202,
+        "GDPIndex": 1.109,
+        "Date": "1969-07-01",
+        "Previous Hash": "fae7e52ee7db1e29d63ba849a4436b5ba88d26169b6cab1b2de2f73d01f739c4",
+        "Hash": "96ce5d6d8b95a90b34d80e09c42ac5c3df90ca6a54361ef6791842fd55a43b6d"
+    },
+    {
+        "Index": 36,
+        "Timestamp": 1746916104.9860961,
+        "GDPIndex": 1.413,
+        "Date": "1969-10-01",
+        "Previous Hash": "96ce5d6d8b95a90b34d80e09c42ac5c3df90ca6a54361ef6791842fd55a43b6d",
+        "Hash": "8e815aca0b40a0d5f5a5842ee4eebfd7f83248a88c04f1c15367b465da214ef8"
+    },
+    {
+        "Index": 37,
+        "Timestamp": 1746916104.988966,
+        "GDPIndex": 0.618,
+        "Date": "1970-01-01",
+        "Previous Hash": "8e815aca0b40a0d5f5a5842ee4eebfd7f83248a88c04f1c15367b465da214ef8",
+        "Hash": "b43874d109eb048bd40c917bb3e8426eeeeeaf6732465a782b4e448b6dea3186"
+    },
+    {
+        "Index": 38,
+        "Timestamp": 1746916104.991894,
+        "GDPIndex": 0.008,
+        "Date": "1970-04-01",
+        "Previous Hash": "b43874d109eb048bd40c917bb3e8426eeeeeaf6732465a782b4e448b6dea3186",
+        "Hash": "3ce49333c38a747c90aecfaea1045f1b7196811d536028722131c1418d496a9b"
+    },
+    {
+        "Index": 39,
+        "Timestamp": 1746916104.9947689,
+        "GDPIndex": 1.035,
+        "Date": "1970-07-01",
+        "Previous Hash": "3ce49333c38a747c90aecfaea1045f1b7196811d536028722131c1418d496a9b",
+        "Hash": "54fc98c163ccbeb6b7daadb92ca640e436a2c15f45a0302e8d3ac7ff64120710"
+    },
+    {
+        "Index": 40,
+        "Timestamp": 1746916104.997644,
+        "GDPIndex": 0.152,
+        "Date": "1970-10-01",
+        "Previous Hash": "54fc98c163ccbeb6b7daadb92ca640e436a2c15f45a0302e8d3ac7ff64120710",
+        "Hash": "6fd427407ec506e466f5210bbc2745cdc7e0a64df748bf004e58d56a8a43c2a7"
+    },
+    {
+        "Index": 41,
+        "Timestamp": 1746916105.0004742,
+        "GDPIndex": -0.514,
+        "Date": "1971-01-01",
+        "Previous Hash": "6fd427407ec506e466f5210bbc2745cdc7e0a64df748bf004e58d56a8a43c2a7",
+        "Hash": "fd12ffdf148f0d7c54374611b1566048ee4dd9df4cdccf5cfca4da5ba7d3e845"
+    },
+    {
+        "Index": 42,
+        "Timestamp": 1746916105.003392,
+        "GDPIndex": 2.92,
+        "Date": "1971-04-01",
+        "Previous Hash": "fd12ffdf148f0d7c54374611b1566048ee4dd9df4cdccf5cfca4da5ba7d3e845",
+        "Hash": "e3d8f7e11b02ca9940dac2dae9331922709164f9738353150edc1ce5264c4c3b"
+    },
+    {
+        "Index": 43,
+        "Timestamp": 1746916105.0063,
+        "GDPIndex": 2.764,
+        "Date": "1971-07-01",
+        "Previous Hash": "e3d8f7e11b02ca9940dac2dae9331922709164f9738353150edc1ce5264c4c3b",
+        "Hash": "c41b8e27a9e1262472a41d332457423cbc5df5b0fceebd1853a7a8d5dae57594"
+    },
+    {
+        "Index": 44,
+        "Timestamp": 1746916105.009183,
+        "GDPIndex": 1.093,
+        "Date": "1971-10-01",
+        "Previous Hash": "c41b8e27a9e1262472a41d332457423cbc5df5b0fceebd1853a7a8d5dae57594",
+        "Hash": "dede1706b29e16528ac0978f1ab06b3104740dae42421a2a6ed61477cb64b289"
+    },
+    {
+        "Index": 45,
+        "Timestamp": 1746916105.012026,
+        "GDPIndex": -0.335,
+        "Date": "1972-01-01",
+        "Previous Hash": "dede1706b29e16528ac0978f1ab06b3104740dae42421a2a6ed61477cb64b289",
+        "Hash": "746a7ba941f271c415a07225250019269195df62325cb135bae454bac1879978"
+    },
+    {
+        "Index": 46,
+        "Timestamp": 1746916105.0150158,
+        "GDPIndex": 2.835,
+        "Date": "1972-04-01",
+        "Previous Hash": "746a7ba941f271c415a07225250019269195df62325cb135bae454bac1879978",
+        "Hash": "ec14086edb7f3131c7670bd21709557ce8f1cab718d0a6805299c20b67de9304"
+    },
+    {
+        "Index": 47,
+        "Timestamp": 1746916105.017967,
+        "GDPIndex": 0.297,
+        "Date": "1972-07-01",
+        "Previous Hash": "ec14086edb7f3131c7670bd21709557ce8f1cab718d0a6805299c20b67de9304",
+        "Hash": "fee4b1b77fbe803a023f5713596778fb3d27dcefeaa6607b0ddffdb387e3a9ac"
+    },
+    {
+        "Index": 48,
+        "Timestamp": 1746916105.020737,
+        "GDPIndex": 2.349,
+        "Date": "1972-10-01",
+        "Previous Hash": "fee4b1b77fbe803a023f5713596778fb3d27dcefeaa6607b0ddffdb387e3a9ac",
+        "Hash": "8f2d876a44d3c16b7cdc0716d190b70b8494a389e228f99d3f7690cd9b38bde6"
+    },
+    {
+        "Index": 49,
+        "Timestamp": 1746916105.023673,
+        "GDPIndex": 2.567,
+        "Date": "1973-01-01",
+        "Previous Hash": "8f2d876a44d3c16b7cdc0716d190b70b8494a389e228f99d3f7690cd9b38bde6",
+        "Hash": "b5da8a54b284dfe6716912c70e73aa62c467aa137123cf6bb6e672303a9240dc"
+    },
+    {
+        "Index": 50,
+        "Timestamp": 1746916105.026667,
+        "GDPIndex": 0.954,
+        "Date": "1973-04-01",
+        "Previous Hash": "b5da8a54b284dfe6716912c70e73aa62c467aa137123cf6bb6e672303a9240dc",
+        "Hash": "1b7cada63a3f55d72ec1fb0d0662c44bab28835c4e418ba59e25e28f6956f8b2"
+    },
+    {
+        "Index": 51,
+        "Timestamp": 1746916105.029599,
+        "GDPIndex": 0.465,
+        "Date": "1973-07-01",
+        "Previous Hash": "1b7cada63a3f55d72ec1fb0d0662c44bab28835c4e418ba59e25e28f6956f8b2",
+        "Hash": "a1b5ad34325f7119c0fe377add166020a75c88cde00dec579f184fe8d6e6ec50"
+    },
+    {
+        "Index": 52,
+        "Timestamp": 1746916105.0325298,
+        "GDPIndex": 1.844,
+        "Date": "1973-10-01",
+        "Previous Hash": "a1b5ad34325f7119c0fe377add166020a75c88cde00dec579f184fe8d6e6ec50",
+        "Hash": "924f46b3df1220ba256af400961ec1f0b33daef69c670905fcc54699a285348c"
+    },
+    {
+        "Index": 53,
+        "Timestamp": 1746916105.035512,
+        "GDPIndex": 0.828,
+        "Date": "1974-01-01",
+        "Previous Hash": "924f46b3df1220ba256af400961ec1f0b33daef69c670905fcc54699a285348c",
+        "Hash": "b538a7c04d3a1069c04bb5d50e0c8575d470e0ee3c4c8e029c10ff4fad08ce5c"
+    },
+    {
+        "Index": 54,
+        "Timestamp": 1746916105.038451,
+        "GDPIndex": 1.026,
+        "Date": "1974-04-01",
+        "Previous Hash": "b538a7c04d3a1069c04bb5d50e0c8575d470e0ee3c4c8e029c10ff4fad08ce5c",
+        "Hash": "463adfc6a8c884e841647b4e279c76386937c0b8e39c65817654ee75381542d9"
+    },
+    {
+        "Index": 55,
+        "Timestamp": 1746916105.041248,
+        "GDPIndex": 0.019,
+        "Date": "1974-07-01",
+        "Previous Hash": "463adfc6a8c884e841647b4e279c76386937c0b8e39c65817654ee75381542d9",
+        "Hash": "79020427d4767c2822fc99b0c26036c238d74031068dfcad02558ab7707552b8"
+    },
+    {
+        "Index": 56,
+        "Timestamp": 1746916105.044124,
+        "GDPIndex": -0.521,
+        "Date": "1974-10-01",
+        "Previous Hash": "79020427d4767c2822fc99b0c26036c238d74031068dfcad02558ab7707552b8",
+        "Hash": "eec156df06b03204c4f078c87b844c03b24470b2c4f9e69ec6c3dbe4513e12fa"
+    },
+    {
+        "Index": 57,
+        "Timestamp": 1746916105.047061,
+        "GDPIndex": -0.545,
+        "Date": "1975-01-01",
+        "Previous Hash": "eec156df06b03204c4f078c87b844c03b24470b2c4f9e69ec6c3dbe4513e12fa",
+        "Hash": "4de8e09967174a6233e08a886176cde95e2f48aec2b827a5ca9fb1a902381c8d"
+    },
+    {
+        "Index": 58,
+        "Timestamp": 1746916105.049967,
+        "GDPIndex": 1.283,
+        "Date": "1975-04-01",
+        "Previous Hash": "4de8e09967174a6233e08a886176cde95e2f48aec2b827a5ca9fb1a902381c8d",
+        "Hash": "2a7fd2bdb03f576a71d59c74d9997d6566a09093b4b2f9030acf51bda73138e3"
+    },
+    {
+        "Index": 59,
+        "Timestamp": 1746916105.05293,
+        "GDPIndex": 1.919,
+        "Date": "1975-07-01",
+        "Previous Hash": "2a7fd2bdb03f576a71d59c74d9997d6566a09093b4b2f9030acf51bda73138e3",
+        "Hash": "434872ae94c55cc18c6dfd126ec96dcb590eb04f4030d313b951bb0baa2e06fd"
+    },
+    {
+        "Index": 60,
+        "Timestamp": 1746916105.0558069,
+        "GDPIndex": 1.157,
+        "Date": "1975-10-01",
+        "Previous Hash": "434872ae94c55cc18c6dfd126ec96dcb590eb04f4030d313b951bb0baa2e06fd",
+        "Hash": "411435ea45e5bc7f6ec74d5ca2778b7a4083ffe72431748b08109ee9e75f0a5f"
+    },
+    {
+        "Index": 61,
+        "Timestamp": 1746916105.0588522,
+        "GDPIndex": 1.743,
+        "Date": "1976-01-01",
+        "Previous Hash": "411435ea45e5bc7f6ec74d5ca2778b7a4083ffe72431748b08109ee9e75f0a5f",
+        "Hash": "53ae00bbd22fc18ce5be2cca7ce84810c55f33ccb4f088586a228a17e5f3c332"
+    },
+    {
+        "Index": 62,
+        "Timestamp": 1746916105.0617018,
+        "GDPIndex": 2.156,
+        "Date": "1976-04-01",
+        "Previous Hash": "53ae00bbd22fc18ce5be2cca7ce84810c55f33ccb4f088586a228a17e5f3c332",
+        "Hash": "2a4a47240c4d281c82f71dc9da6108075074eb0a70405c32993066bdc6af51e8"
+    },
+    {
+        "Index": 63,
+        "Timestamp": 1746916105.064427,
+        "GDPIndex": 0.462,
+        "Date": "1976-07-01",
+        "Previous Hash": "2a4a47240c4d281c82f71dc9da6108075074eb0a70405c32993066bdc6af51e8",
+        "Hash": "fd3b72e8d2bf6f0a025ba2831b43f4adbd134ee0e2b0d66285e10ec6f210d303"
+    },
+    {
+        "Index": 64,
+        "Timestamp": 1746916105.067221,
+        "GDPIndex": 0.162,
+        "Date": "1976-10-01",
+        "Previous Hash": "fd3b72e8d2bf6f0a025ba2831b43f4adbd134ee0e2b0d66285e10ec6f210d303",
+        "Hash": "7dc1f5e610ac33ca1365d8424d24db2b99971c3562a6e72f2c3b26349df1adce"
+    },
+    {
+        "Index": 65,
+        "Timestamp": 1746916105.069956,
+        "GDPIndex": 1.534,
+        "Date": "1977-01-01",
+        "Previous Hash": "7dc1f5e610ac33ca1365d8424d24db2b99971c3562a6e72f2c3b26349df1adce",
+        "Hash": "a12fca027b19264ff0c80d7ce7aef114b8ea75970af01e72adf1a12b39f94f3f"
+    },
+    {
+        "Index": 66,
+        "Timestamp": 1746916105.0728378,
+        "GDPIndex": 0.51,
+        "Date": "1977-04-01",
+        "Previous Hash": "a12fca027b19264ff0c80d7ce7aef114b8ea75970af01e72adf1a12b39f94f3f",
+        "Hash": "d2d76d2335aa7acb7476366cc1f65c8834c395150ee7e67a7909a157eedef334"
+    },
+    {
+        "Index": 67,
+        "Timestamp": 1746916105.075752,
+        "GDPIndex": 0.588,
+        "Date": "1977-07-01",
+        "Previous Hash": "d2d76d2335aa7acb7476366cc1f65c8834c395150ee7e67a7909a157eedef334",
+        "Hash": "2e6f54b2c218293a153e10423543a8543d62adb3aecd3e7c0b29d72165ad3073"
+    },
+    {
+        "Index": 68,
+        "Timestamp": 1746916105.078613,
+        "GDPIndex": 1.585,
+        "Date": "1977-10-01",
+        "Previous Hash": "2e6f54b2c218293a153e10423543a8543d62adb3aecd3e7c0b29d72165ad3073",
+        "Hash": "0c638d6722fd816d1c19577840cefc007590fbd09da1f0bf6232f7fdbeceb33c"
+    },
+    {
+        "Index": 69,
+        "Timestamp": 1746916105.081446,
+        "GDPIndex": 0.864,
+        "Date": "1978-01-01",
+        "Previous Hash": "0c638d6722fd816d1c19577840cefc007590fbd09da1f0bf6232f7fdbeceb33c",
+        "Hash": "171eafdf2f120fb8b7764d36ec90240ab8bd010e35d2d2e4ce018d5e7037afdb"
+    },
+    {
+        "Index": 70,
+        "Timestamp": 1746916105.084209,
+        "GDPIndex": 0.681,
+        "Date": "1978-04-01",
+        "Previous Hash": "171eafdf2f120fb8b7764d36ec90240ab8bd010e35d2d2e4ce018d5e7037afdb",
+        "Hash": "3101ed1d0405c782cfe8d7a2b698b35de5a172ccb7aaff0b067e16845e9b1022"
+    },
+    {
+        "Index": 71,
+        "Timestamp": 1746916105.087048,
+        "GDPIndex": 0.933,
+        "Date": "1978-07-01",
+        "Previous Hash": "3101ed1d0405c782cfe8d7a2b698b35de5a172ccb7aaff0b067e16845e9b1022",
+        "Hash": "9d43d294f2b6582260fc619a1f6d6b1ba062c48ab2f5b3673fbb30506f94817f"
+    },
+    {
+        "Index": 72,
+        "Timestamp": 1746916105.089918,
+        "GDPIndex": 0.948,
+        "Date": "1978-10-01",
+        "Previous Hash": "9d43d294f2b6582260fc619a1f6d6b1ba062c48ab2f5b3673fbb30506f94817f",
+        "Hash": "6bbad4fc1f10bd752937bfea148885f15a324e2788c6718af93a14d577dc425e"
+    },
+    {
+        "Index": 73,
+        "Timestamp": 1746916105.0928,
+        "GDPIndex": 0.798,
+        "Date": "1979-01-01",
+        "Previous Hash": "6bbad4fc1f10bd752937bfea148885f15a324e2788c6718af93a14d577dc425e",
+        "Hash": "3a384fc69e7af99dddcaf1f8ce547c2902aa3e24a6b01a801b1bf3a4de9e83e6"
+    },
+    {
+        "Index": 74,
+        "Timestamp": 1746916105.095691,
+        "GDPIndex": 1.327,
+        "Date": "1979-04-01",
+        "Previous Hash": "3a384fc69e7af99dddcaf1f8ce547c2902aa3e24a6b01a801b1bf3a4de9e83e6",
+        "Hash": "e77ee7a6d28c21fd88335715aa4281a4652ca8f4ac908d2695c9dc18250763c9"
+    },
+    {
+        "Index": 75,
+        "Timestamp": 1746916105.098604,
+        "GDPIndex": 0.733,
+        "Date": "1979-07-01",
+        "Previous Hash": "e77ee7a6d28c21fd88335715aa4281a4652ca8f4ac908d2695c9dc18250763c9",
+        "Hash": "05b64578600bb76421c2c442223cb7c5587b589735fa398e83138a5a32a2f3db"
+    },
+    {
+        "Index": 76,
+        "Timestamp": 1746916105.10156,
+        "GDPIndex": 0.671,
+        "Date": "1979-10-01",
+        "Previous Hash": "05b64578600bb76421c2c442223cb7c5587b589735fa398e83138a5a32a2f3db",
+        "Hash": "0f22254409c19807ebc3261763fe642b65f1ffd8f4ecc6b631e24be56aa9c8df"
+    },
+    {
+        "Index": 77,
+        "Timestamp": 1746916105.1044009,
+        "GDPIndex": 0.694,
+        "Date": "1980-01-01",
+        "Previous Hash": "0f22254409c19807ebc3261763fe642b65f1ffd8f4ecc6b631e24be56aa9c8df",
+        "Hash": "10b2a6e5f01f5d4efc9f7e44f8da05d5e40aafb48ee1dff28ed61f39dff47e73"
+    },
+    {
+        "Index": 78,
+        "Timestamp": 1746916105.1071842,
+        "GDPIndex": -0.044,
+        "Date": "1980-04-01",
+        "Previous Hash": "10b2a6e5f01f5d4efc9f7e44f8da05d5e40aafb48ee1dff28ed61f39dff47e73",
+        "Hash": "1ca7d7772c7f48a6af593dccb9ca0489e4514d1b90c5e3d21b4791c32ca6fe98"
+    },
+    {
+        "Index": 79,
+        "Timestamp": 1746916105.110019,
+        "GDPIndex": -0.083,
+        "Date": "1980-07-01",
+        "Previous Hash": "1ca7d7772c7f48a6af593dccb9ca0489e4514d1b90c5e3d21b4791c32ca6fe98",
+        "Hash": "cce30a0de119bb2ea57d885f2e06585d2bfc7b65df58fd1edd397675109852bd"
+    },
+    {
+        "Index": 80,
+        "Timestamp": 1746916105.11295,
+        "GDPIndex": 1.384,
+        "Date": "1980-10-01",
+        "Previous Hash": "cce30a0de119bb2ea57d885f2e06585d2bfc7b65df58fd1edd397675109852bd",
+        "Hash": "845bb8476e930a6cbb9ec061535cc2b93c939151292568f68ea5083bbd4e9340"
+    },
+    {
+        "Index": 81,
+        "Timestamp": 1746916105.115833,
+        "GDPIndex": 2.154,
+        "Date": "1981-01-01",
+        "Previous Hash": "845bb8476e930a6cbb9ec061535cc2b93c939151292568f68ea5083bbd4e9340",
+        "Hash": "2c270d8a7c086a15c83ed9e0e20e2adce17858a025b235ad9c466dd98ed5c750"
+    },
+    {
+        "Index": 82,
+        "Timestamp": 1746916105.118725,
+        "GDPIndex": 1.093,
+        "Date": "1981-04-01",
+        "Previous Hash": "2c270d8a7c086a15c83ed9e0e20e2adce17858a025b235ad9c466dd98ed5c750",
+        "Hash": "93aa769bbfff9cdae8ec25e95d978971e5de07dac72ec3f9e62c3e32cce9d5c5"
+    },
+    {
+        "Index": 83,
+        "Timestamp": 1746916105.12165,
+        "GDPIndex": -0.899,
+        "Date": "1981-07-01",
+        "Previous Hash": "93aa769bbfff9cdae8ec25e95d978971e5de07dac72ec3f9e62c3e32cce9d5c5",
+        "Hash": "5ed8bf3cca6f6be6b6b0305716c3c55e572f41002b6a4ba322bb829f07045856"
+    },
+    {
+        "Index": 84,
+        "Timestamp": 1746916105.1246028,
+        "GDPIndex": -0.46,
+        "Date": "1981-10-01",
+        "Previous Hash": "5ed8bf3cca6f6be6b6b0305716c3c55e572f41002b6a4ba322bb829f07045856",
+        "Hash": "fe58844f4ba3f6055eca971e613e0d0eaabfce5a2f520718865dd567a690ba50"
+    },
+    {
+        "Index": 85,
+        "Timestamp": 1746916105.1273348,
+        "GDPIndex": -1.144,
+        "Date": "1982-01-01",
+        "Previous Hash": "fe58844f4ba3f6055eca971e613e0d0eaabfce5a2f520718865dd567a690ba50",
+        "Hash": "a2dc9a8fe6970db4c0a22b726c9599bf221868541addf6f05c86914039c7c845"
+    },
+    {
+        "Index": 86,
+        "Timestamp": 1746916105.130188,
+        "GDPIndex": -1.151,
+        "Date": "1982-04-01",
+        "Previous Hash": "a2dc9a8fe6970db4c0a22b726c9599bf221868541addf6f05c86914039c7c845",
+        "Hash": "0253685386a2cca8cb5744b1c74f8aeb97d831301b81e7f4d225e6d7b6a3adb3"
+    },
+    {
+        "Index": 87,
+        "Timestamp": 1746916105.133028,
+        "GDPIndex": -0.887,
+        "Date": "1982-07-01",
+        "Previous Hash": "0253685386a2cca8cb5744b1c74f8aeb97d831301b81e7f4d225e6d7b6a3adb3",
+        "Hash": "bd7e0d1127cd74f88904c50c67fe80121f6d30417a4da740d4d7caaa9c2c9452"
+    },
+    {
+        "Index": 88,
+        "Timestamp": 1746916105.135893,
+        "GDPIndex": -0.923,
+        "Date": "1982-10-01",
+        "Previous Hash": "bd7e0d1127cd74f88904c50c67fe80121f6d30417a4da740d4d7caaa9c2c9452",
+        "Hash": "42f09939d8b47ecfc92a38a9e1aa6d5e9d2bca7c03ecbdf92ef0b0212913dad0"
+    },
+    {
+        "Index": 89,
+        "Timestamp": 1746916105.138803,
+        "GDPIndex": 1.634,
+        "Date": "1983-01-01",
+        "Previous Hash": "42f09939d8b47ecfc92a38a9e1aa6d5e9d2bca7c03ecbdf92ef0b0212913dad0",
+        "Hash": "e0ab3eb6ec49993e98cfa8a45f5d20a4bba543d787ff2f7ede576e32d4adc622"
+    },
+    {
+        "Index": 90,
+        "Timestamp": 1746916105.141739,
+        "GDPIndex": 1.973,
+        "Date": "1983-04-01",
+        "Previous Hash": "e0ab3eb6ec49993e98cfa8a45f5d20a4bba543d787ff2f7ede576e32d4adc622",
+        "Hash": "f6c740612eb7f30a54322b5893c4dbc80654daafaaa1820b379886be334679c6"
+    },
+    {
+        "Index": 91,
+        "Timestamp": 1746916105.144665,
+        "GDPIndex": 1.123,
+        "Date": "1983-07-01",
+        "Previous Hash": "f6c740612eb7f30a54322b5893c4dbc80654daafaaa1820b379886be334679c6",
+        "Hash": "ef4795963eaa5c92d39405f702fe53ca170306b7fd47238f18c91efaf326e466"
+    },
+    {
+        "Index": 92,
+        "Timestamp": 1746916105.147458,
+        "GDPIndex": 1.243,
+        "Date": "1983-10-01",
+        "Previous Hash": "ef4795963eaa5c92d39405f702fe53ca170306b7fd47238f18c91efaf326e466",
+        "Hash": "626c31d37c8041dc02defc147472d314b477d7406725203392de8ae750e9d1e5"
+    },
+    {
+        "Index": 93,
+        "Timestamp": 1746916105.150296,
+        "GDPIndex": 1.732,
+        "Date": "1984-01-01",
+        "Previous Hash": "626c31d37c8041dc02defc147472d314b477d7406725203392de8ae750e9d1e5",
+        "Hash": "a2e4a4bc076d9568049c0f1a7ad87d6ee07161421b24bc8fc82163bae4e72df4"
+    },
+    {
+        "Index": 94,
+        "Timestamp": 1746916105.153158,
+        "GDPIndex": 1.941,
+        "Date": "1984-04-01",
+        "Previous Hash": "a2e4a4bc076d9568049c0f1a7ad87d6ee07161421b24bc8fc82163bae4e72df4",
+        "Hash": "97cd6fab0e5e43b640601ff0fb09bc8ba333f232064c74d6c91cbc8f3c00fac5"
+    },
+    {
+        "Index": 95,
+        "Timestamp": 1746916105.156018,
+        "GDPIndex": 0.43,
+        "Date": "1984-07-01",
+        "Previous Hash": "97cd6fab0e5e43b640601ff0fb09bc8ba333f232064c74d6c91cbc8f3c00fac5",
+        "Hash": "9c0dbde5583be89e03f943c638390d50f606aa02269551c325e22127aad037e1"
+    },
+    {
+        "Index": 96,
+        "Timestamp": 1746916105.1589088,
+        "GDPIndex": 1.561,
+        "Date": "1984-10-01",
+        "Previous Hash": "9c0dbde5583be89e03f943c638390d50f606aa02269551c325e22127aad037e1",
+        "Hash": "045c5098f63f8b4c90acf1544f972be8b65a65844215809be80ad3b492f906e5"
+    },
+    {
+        "Index": 97,
+        "Timestamp": 1746916105.161851,
+        "GDPIndex": 1.536,
+        "Date": "1985-01-01",
+        "Previous Hash": "045c5098f63f8b4c90acf1544f972be8b65a65844215809be80ad3b492f906e5",
+        "Hash": "5a6b38bd8cfea738a57d8290b34358df1fda908d001ce667c48b9463642cf6e1"
+    },
+    {
+        "Index": 98,
+        "Timestamp": 1746916105.1647859,
+        "GDPIndex": 0.322,
+        "Date": "1985-04-01",
+        "Previous Hash": "5a6b38bd8cfea738a57d8290b34358df1fda908d001ce667c48b9463642cf6e1",
+        "Hash": "222a694e58ed271de68b6ad97bb16b89627559a5fe3adf43c2f48c134a38d9bc"
+    },
+    {
+        "Index": 99,
+        "Timestamp": 1746916105.167666,
+        "GDPIndex": 1.269,
+        "Date": "1985-07-01",
+        "Previous Hash": "222a694e58ed271de68b6ad97bb16b89627559a5fe3adf43c2f48c134a38d9bc",
+        "Hash": "887c4ac07a02e237e0dc6bf6ef81cc7efe32d571831d8dd872511d3849d51486"
+    },
+    {
+        "Index": 100,
+        "Timestamp": 1746916105.170474,
+        "GDPIndex": 1.525,
+        "Date": "1985-10-01",
+        "Previous Hash": "887c4ac07a02e237e0dc6bf6ef81cc7efe32d571831d8dd872511d3849d51486",
+        "Hash": "56e0760035fd8aa1ad936792cff0b33aca33c67f7d35e5bf99dcbe408f3609b7"
+    },
+    {
+        "Index": 101,
+        "Timestamp": 1746916105.173357,
+        "GDPIndex": -0.051,
+        "Date": "1986-01-01",
+        "Previous Hash": "56e0760035fd8aa1ad936792cff0b33aca33c67f7d35e5bf99dcbe408f3609b7",
+        "Hash": "bdb0540da6194010702a92a01e30754e4646b7406fac8655bf0eb85343f5e4ca"
+    },
+    {
+        "Index": 102,
+        "Timestamp": 1746916105.176255,
+        "GDPIndex": 0.575,
+        "Date": "1986-04-01",
+        "Previous Hash": "bdb0540da6194010702a92a01e30754e4646b7406fac8655bf0eb85343f5e4ca",
+        "Hash": "c65328f485b8590c83615c0b0b7ebffe12864aa3656f724d6e1d72bbc49d7184"
+    },
+    {
+        "Index": 103,
+        "Timestamp": 1746916105.179222,
+        "GDPIndex": 0.126,
+        "Date": "1986-07-01",
+        "Previous Hash": "c65328f485b8590c83615c0b0b7ebffe12864aa3656f724d6e1d72bbc49d7184",
+        "Hash": "a486f52d52bc7981ede59cbc01e6a20e5cbdc6f2dbb8410f3d87885265629ef0"
+    },
+    {
+        "Index": 104,
+        "Timestamp": 1746916105.182192,
+        "GDPIndex": -0.724,
+        "Date": "1986-10-01",
+        "Previous Hash": "a486f52d52bc7981ede59cbc01e6a20e5cbdc6f2dbb8410f3d87885265629ef0",
+        "Hash": "982cfb1fc35c16abc58650a93ebe4c0cb21bc73edf3b2dab8ef07a9369b5b33f"
+    },
+    {
+        "Index": 105,
+        "Timestamp": 1746916105.18514,
+        "GDPIndex": 2.311,
+        "Date": "1987-01-01",
+        "Previous Hash": "982cfb1fc35c16abc58650a93ebe4c0cb21bc73edf3b2dab8ef07a9369b5b33f",
+        "Hash": "e0ee47d5be11aa8fa6183c8176d415b60f692e6808708718513b60b7663396cc"
+    },
+    {
+        "Index": 106,
+        "Timestamp": 1746916105.1881049,
+        "GDPIndex": 1.281,
+        "Date": "1987-04-01",
+        "Previous Hash": "e0ee47d5be11aa8fa6183c8176d415b60f692e6808708718513b60b7663396cc",
+        "Hash": "24ac651de23ae482c19a1d318cd5d9b73bc5b6a0bee5c4dcea634860f134dd16"
+    },
+    {
+        "Index": 107,
+        "Timestamp": 1746916105.19089,
+        "GDPIndex": 1.528,
+        "Date": "1987-07-01",
+        "Previous Hash": "24ac651de23ae482c19a1d318cd5d9b73bc5b6a0bee5c4dcea634860f134dd16",
+        "Hash": "af5562031f88ccbf58b31cdf4f3a17dd83af622b1f3167c7fb2129f790551a36"
+    },
+    {
+        "Index": 108,
+        "Timestamp": 1746916105.19385,
+        "GDPIndex": 1.292,
+        "Date": "1987-10-01",
+        "Previous Hash": "af5562031f88ccbf58b31cdf4f3a17dd83af622b1f3167c7fb2129f790551a36",
+        "Hash": "7fb97b6ff2694e8e308fca6eb8e5c5dd4fbd9554f496b8806bd949539297c478"
+    },
+    {
+        "Index": 109,
+        "Timestamp": 1746916105.196828,
+        "GDPIndex": 1.457,
+        "Date": "1988-01-01",
+        "Previous Hash": "7fb97b6ff2694e8e308fca6eb8e5c5dd4fbd9554f496b8806bd949539297c478",
+        "Hash": "8cd97c928392dd6f852fda83ce517c408c33e9d9750c89003290821b2f37a731"
+    },
+    {
+        "Index": 110,
+        "Timestamp": 1746916105.199745,
+        "GDPIndex": 0.887,
+        "Date": "1988-04-01",
+        "Previous Hash": "8cd97c928392dd6f852fda83ce517c408c33e9d9750c89003290821b2f37a731",
+        "Hash": "d0cb0cebd068b0882fba3fe3e78518e00818e2b1b7af84ab6ad172495564bbb8"
+    },
+    {
+        "Index": 111,
+        "Timestamp": 1746916105.20267,
+        "GDPIndex": 0.015,
+        "Date": "1988-07-01",
+        "Previous Hash": "d0cb0cebd068b0882fba3fe3e78518e00818e2b1b7af84ab6ad172495564bbb8",
+        "Hash": "43d502b10215f393c52e12b0383eb39c7d667acfedb6132f1e09f5ec98a86623"
+    },
+    {
+        "Index": 112,
+        "Timestamp": 1746916105.205656,
+        "GDPIndex": 0.686,
+        "Date": "1988-10-01",
+        "Previous Hash": "43d502b10215f393c52e12b0383eb39c7d667acfedb6132f1e09f5ec98a86623",
+        "Hash": "d657298e29758ac9f388fed6de318c4401862a232647f20dad99f204184a4a93"
+    },
+    {
+        "Index": 113,
+        "Timestamp": 1746916105.2086349,
+        "GDPIndex": 1.155,
+        "Date": "1989-01-01",
+        "Previous Hash": "d657298e29758ac9f388fed6de318c4401862a232647f20dad99f204184a4a93",
+        "Hash": "3ab034807888ba89a3eaa8a26b0e8f4844f08384914b33ecb9cb5810fc1a6a72"
+    },
+    {
+        "Index": 114,
+        "Timestamp": 1746916105.2115,
+        "GDPIndex": 0.389,
+        "Date": "1989-04-01",
+        "Previous Hash": "3ab034807888ba89a3eaa8a26b0e8f4844f08384914b33ecb9cb5810fc1a6a72",
+        "Hash": "8f7c65795ab00f32e894cbd482bc84a2b6b1bec329799f4ab9e8cffd7f45a3f7"
+    },
+    {
+        "Index": 115,
+        "Timestamp": 1746916105.2144608,
+        "GDPIndex": 0.361,
+        "Date": "1989-07-01",
+        "Previous Hash": "8f7c65795ab00f32e894cbd482bc84a2b6b1bec329799f4ab9e8cffd7f45a3f7",
+        "Hash": "857c6c2d227321146fbf728253b3e4a5e1da0c79376a60dc130ed8c410a24de3"
+    },
+    {
+        "Index": 116,
+        "Timestamp": 1746916105.2174132,
+        "GDPIndex": -0.199,
+        "Date": "1989-10-01",
+        "Previous Hash": "857c6c2d227321146fbf728253b3e4a5e1da0c79376a60dc130ed8c410a24de3",
+        "Hash": "928b861d15435478855142a0505f9ca6520a453a92dccfe0c1166d8b2cbf9898"
+    },
+    {
+        "Index": 117,
+        "Timestamp": 1746916105.2204218,
+        "GDPIndex": 0.962,
+        "Date": "1990-01-01",
+        "Previous Hash": "928b861d15435478855142a0505f9ca6520a453a92dccfe0c1166d8b2cbf9898",
+        "Hash": "a943d4f47ee16c11fb6a8f1f7e90eb1d47c1332ab6a75ab2c1444015e2f9a97f"
+    },
+    {
+        "Index": 118,
+        "Timestamp": 1746916105.2234392,
+        "GDPIndex": -0.401,
+        "Date": "1990-04-01",
+        "Previous Hash": "a943d4f47ee16c11fb6a8f1f7e90eb1d47c1332ab6a75ab2c1444015e2f9a97f",
+        "Hash": "0e124f397a810b9f086f0ce2bc2ded590d1b0cef2e142200dbcefa3262702c83"
+    },
+    {
+        "Index": 119,
+        "Timestamp": 1746916105.226429,
+        "GDPIndex": -0.717,
+        "Date": "1990-07-01",
+        "Previous Hash": "0e124f397a810b9f086f0ce2bc2ded590d1b0cef2e142200dbcefa3262702c83",
+        "Hash": "a1d8e136e7b024285ba190d13027c6913d26f599b8b3e5bde616967519231217"
+    },
+    {
+        "Index": 120,
+        "Timestamp": 1746916105.229336,
+        "GDPIndex": -0.89,
+        "Date": "1990-10-01",
+        "Previous Hash": "a1d8e136e7b024285ba190d13027c6913d26f599b8b3e5bde616967519231217",
+        "Hash": "1f9425d32a2bd2dc2b0a3651af6eb08087ce9b6ddea1dff1ccb24a331fe8a060"
+    },
+    {
+        "Index": 121,
+        "Timestamp": 1746916105.232217,
+        "GDPIndex": -1.439,
+        "Date": "1991-01-01",
+        "Previous Hash": "1f9425d32a2bd2dc2b0a3651af6eb08087ce9b6ddea1dff1ccb24a331fe8a060",
+        "Hash": "55f1bda842a71a449d78ebe92ae95ddd8bfea75b17b6131e84e59c5371085991"
+    },
+    {
+        "Index": 122,
+        "Timestamp": 1746916105.2350562,
+        "GDPIndex": 0.48,
+        "Date": "1991-04-01",
+        "Previous Hash": "55f1bda842a71a449d78ebe92ae95ddd8bfea75b17b6131e84e59c5371085991",
+        "Hash": "4c4c4445ba515ebe47748be34d303f818576861fe8b5ff041079ae13cd3e0b4b"
+    },
+    {
+        "Index": 123,
+        "Timestamp": 1746916105.238004,
+        "GDPIndex": 0.133,
+        "Date": "1991-07-01",
+        "Previous Hash": "4c4c4445ba515ebe47748be34d303f818576861fe8b5ff041079ae13cd3e0b4b",
+        "Hash": "ce48a3e152409bc6b733001008cd5063ca7f1afc592cbb07dbe78d230fc83b4d"
+    },
+    {
+        "Index": 124,
+        "Timestamp": 1746916105.24088,
+        "GDPIndex": 0.176,
+        "Date": "1991-10-01",
+        "Previous Hash": "ce48a3e152409bc6b733001008cd5063ca7f1afc592cbb07dbe78d230fc83b4d",
+        "Hash": "d548cac844e957dd79ae971c7a66724eb917748f53525f94a15cc36acf2793a4"
+    },
+    {
+        "Index": 125,
+        "Timestamp": 1746916105.243851,
+        "GDPIndex": 0.071,
+        "Date": "1992-01-01",
+        "Previous Hash": "d548cac844e957dd79ae971c7a66724eb917748f53525f94a15cc36acf2793a4",
+        "Hash": "cc9575fa79cbb8efd9fa9979facd06613cbb3b95e622f48cdbc38259a612e35b"
+    },
+    {
+        "Index": 126,
+        "Timestamp": 1746916105.246784,
+        "GDPIndex": 0.114,
+        "Date": "1992-04-01",
+        "Previous Hash": "cc9575fa79cbb8efd9fa9979facd06613cbb3b95e622f48cdbc38259a612e35b",
+        "Hash": "6a181f392b49d3d7ed6ba2025f1925ea55f73762066d704c5a653521a2f5656d"
+    },
+    {
+        "Index": 127,
+        "Timestamp": 1746916105.249675,
+        "GDPIndex": 0.542,
+        "Date": "1992-07-01",
+        "Previous Hash": "6a181f392b49d3d7ed6ba2025f1925ea55f73762066d704c5a653521a2f5656d",
+        "Hash": "288ddf7f9465ddd1486e58557fa5d7d6d3a2ba518da54371f0aad47657804e31"
+    },
+    {
+        "Index": 128,
+        "Timestamp": 1746916105.252597,
+        "GDPIndex": 0.57,
+        "Date": "1992-10-01",
+        "Previous Hash": "288ddf7f9465ddd1486e58557fa5d7d6d3a2ba518da54371f0aad47657804e31",
+        "Hash": "0c903fcb57f29dd8eda7234870f63445aa38cf99d60d0da083783ee3228b1cfb"
+    },
+    {
+        "Index": 129,
+        "Timestamp": 1746916105.255394,
+        "GDPIndex": 0.635,
+        "Date": "1993-01-01",
+        "Previous Hash": "0c903fcb57f29dd8eda7234870f63445aa38cf99d60d0da083783ee3228b1cfb",
+        "Hash": "44c93c8f53108a6e460d74a31a0f4235523089abfcc1aed1bf192cc8802e1ec7"
+    },
+    {
+        "Index": 130,
+        "Timestamp": 1746916105.2583182,
+        "GDPIndex": 0.911,
+        "Date": "1993-04-01",
+        "Previous Hash": "44c93c8f53108a6e460d74a31a0f4235523089abfcc1aed1bf192cc8802e1ec7",
+        "Hash": "e98fa4d9ef29f8e8c4fe704c59b86688399bd2c89a52dc5216775e05a08080be"
+    },
+    {
+        "Index": 131,
+        "Timestamp": 1746916105.261278,
+        "GDPIndex": 0.956,
+        "Date": "1993-07-01",
+        "Previous Hash": "e98fa4d9ef29f8e8c4fe704c59b86688399bd2c89a52dc5216775e05a08080be",
+        "Hash": "e34590a545ff242c6f4935cdfaba6a627e9d182be70faa6b04afd760fe931610"
+    },
+    {
+        "Index": 132,
+        "Timestamp": 1746916105.264257,
+        "GDPIndex": 0.428,
+        "Date": "1993-10-01",
+        "Previous Hash": "e34590a545ff242c6f4935cdfaba6a627e9d182be70faa6b04afd760fe931610",
+        "Hash": "9d5d405d275d2d11b57f8822da793c3145c3cd9cbda1c07fae80809ede6f056f"
+    },
+    {
+        "Index": 133,
+        "Timestamp": 1746916105.26721,
+        "GDPIndex": 1.474,
+        "Date": "1994-01-01",
+        "Previous Hash": "9d5d405d275d2d11b57f8822da793c3145c3cd9cbda1c07fae80809ede6f056f",
+        "Hash": "b3a269844ffc5c375e105f749e880960c633faf6d9f94b1529ece5e91f364013"
+    },
+    {
+        "Index": 134,
+        "Timestamp": 1746916105.270068,
+        "GDPIndex": 1.46,
+        "Date": "1994-04-01",
+        "Previous Hash": "b3a269844ffc5c375e105f749e880960c633faf6d9f94b1529ece5e91f364013",
+        "Hash": "e83436382921a1c87316c084e6ce2ccacb094800332aaf1579559a425810f62f"
+    },
+    {
+        "Index": 135,
+        "Timestamp": 1746916105.272943,
+        "GDPIndex": 1.282,
+        "Date": "1994-07-01",
+        "Previous Hash": "e83436382921a1c87316c084e6ce2ccacb094800332aaf1579559a425810f62f",
+        "Hash": "671cf91061094c3480e145519f4593c815482288967f04d2a1b3f21c05ce8b0b"
+    },
+    {
+        "Index": 136,
+        "Timestamp": 1746916105.2757509,
+        "GDPIndex": 0.726,
+        "Date": "1994-10-01",
+        "Previous Hash": "671cf91061094c3480e145519f4593c815482288967f04d2a1b3f21c05ce8b0b",
+        "Hash": "ad52d170454791675fb173124a9117a4b5ad95de5cd586a8ef3df1989cd31687"
+    },
+    {
+        "Index": 137,
+        "Timestamp": 1746916105.278653,
+        "GDPIndex": 0.919,
+        "Date": "1995-01-01",
+        "Previous Hash": "ad52d170454791675fb173124a9117a4b5ad95de5cd586a8ef3df1989cd31687",
+        "Hash": "14e421ff4c9721cf9a716ed045e8cce97af7cc00c9e50bb5dcac849c06759a71"
+    },
+    {
+        "Index": 138,
+        "Timestamp": 1746916105.2815979,
+        "GDPIndex": 0.042,
+        "Date": "1995-04-01",
+        "Previous Hash": "14e421ff4c9721cf9a716ed045e8cce97af7cc00c9e50bb5dcac849c06759a71",
+        "Hash": "c5d3a388c631bb73236eaa7c6c896f7dbbed55bb55445e33df1639fb4b7cde82"
+    },
+    {
+        "Index": 139,
+        "Timestamp": 1746916105.284566,
+        "GDPIndex": 0.132,
+        "Date": "1995-07-01",
+        "Previous Hash": "c5d3a388c631bb73236eaa7c6c896f7dbbed55bb55445e33df1639fb4b7cde82",
+        "Hash": "75ed207b15cb177338146c469ef7f8cced8d6095661d8efd0e3bcb8e29bf5b37"
+    },
+    {
+        "Index": 140,
+        "Timestamp": 1746916105.287345,
+        "GDPIndex": 0.404,
+        "Date": "1995-10-01",
+        "Previous Hash": "75ed207b15cb177338146c469ef7f8cced8d6095661d8efd0e3bcb8e29bf5b37",
+        "Hash": "f845377a9218970e781c728bae0b4a99d628dc5c9481bf6c0e088b3d90301c51"
+    },
+    {
+        "Index": 141,
+        "Timestamp": 1746916105.2901828,
+        "GDPIndex": 0.145,
+        "Date": "1996-01-01",
+        "Previous Hash": "f845377a9218970e781c728bae0b4a99d628dc5c9481bf6c0e088b3d90301c51",
+        "Hash": "8f90b6d4b83f33c017d3834b5ce6fe6c3f5f0b7173546d11df71cdee42788363"
+    },
+    {
+        "Index": 142,
+        "Timestamp": 1746916105.293033,
+        "GDPIndex": 0.712,
+        "Date": "1996-04-01",
+        "Previous Hash": "8f90b6d4b83f33c017d3834b5ce6fe6c3f5f0b7173546d11df71cdee42788363",
+        "Hash": "b71ccead36bf993cdc4e22b3c06438c6e1ed8961aceaa1f1f857416bb58c6e27"
+    },
+    {
+        "Index": 143,
+        "Timestamp": 1746916105.295889,
+        "GDPIndex": 0.84,
+        "Date": "1996-07-01",
+        "Previous Hash": "b71ccead36bf993cdc4e22b3c06438c6e1ed8961aceaa1f1f857416bb58c6e27",
+        "Hash": "760651fa7b261075b6290422c76b34bb8882e01539f648c19c89540a84384336"
+    },
+    {
+        "Index": 144,
+        "Timestamp": 1746916105.298692,
+        "GDPIndex": 0.792,
+        "Date": "1996-10-01",
+        "Previous Hash": "760651fa7b261075b6290422c76b34bb8882e01539f648c19c89540a84384336",
+        "Hash": "024b8c1dbfb29304d7ee0262220a429916d181db5ab0647d958d8e56180c17a4"
+    },
+    {
+        "Index": 145,
+        "Timestamp": 1746916105.301433,
+        "GDPIndex": 1.34,
+        "Date": "1997-01-01",
+        "Previous Hash": "024b8c1dbfb29304d7ee0262220a429916d181db5ab0647d958d8e56180c17a4",
+        "Hash": "f09972239ef8194ba7fe9b57a526487cc5f0668acc5b6a28194e1708489f9638"
+    },
+    {
+        "Index": 146,
+        "Timestamp": 1746916105.3041909,
+        "GDPIndex": 1.125,
+        "Date": "1997-04-01",
+        "Previous Hash": "f09972239ef8194ba7fe9b57a526487cc5f0668acc5b6a28194e1708489f9638",
+        "Hash": "7144bbb89c24d5a3030c13b7b1ad7de3bdd9c07b19c84fb6429ee787b80c7dcd"
+    },
+    {
+        "Index": 147,
+        "Timestamp": 1746916105.3070238,
+        "GDPIndex": 1.186,
+        "Date": "1997-07-01",
+        "Previous Hash": "7144bbb89c24d5a3030c13b7b1ad7de3bdd9c07b19c84fb6429ee787b80c7dcd",
+        "Hash": "638f5e9547d7d8e2d63dc282165b7fc27ad4a734ac11b0a553f479ea75a2bcd4"
+    },
+    {
+        "Index": 148,
+        "Timestamp": 1746916105.309951,
+        "GDPIndex": 0.966,
+        "Date": "1997-10-01",
+        "Previous Hash": "638f5e9547d7d8e2d63dc282165b7fc27ad4a734ac11b0a553f479ea75a2bcd4",
+        "Hash": "a3fc5ee114a1478063be359f9005f111f77d370ec31553f89d9ba550847e22c6"
+    },
+    {
+        "Index": 149,
+        "Timestamp": 1746916105.3127732,
+        "GDPIndex": 1.412,
+        "Date": "1998-01-01",
+        "Previous Hash": "a3fc5ee114a1478063be359f9005f111f77d370ec31553f89d9ba550847e22c6",
+        "Hash": "ae0ea8b8aa48139c925294a8c8369d0f7a4da1faffeece566ed21a51f16d4cec"
+    },
+    {
+        "Index": 150,
+        "Timestamp": 1746916105.315661,
+        "GDPIndex": 0.053,
+        "Date": "1998-04-01",
+        "Previous Hash": "ae0ea8b8aa48139c925294a8c8369d0f7a4da1faffeece566ed21a51f16d4cec",
+        "Hash": "909897ba2ef43c1d264370705b9a3af95f6df0795270fea4f89d13ad2a2f3c1f"
+    },
+    {
+        "Index": 151,
+        "Timestamp": 1746916105.318465,
+        "GDPIndex": 0.911,
+        "Date": "1998-07-01",
+        "Previous Hash": "909897ba2ef43c1d264370705b9a3af95f6df0795270fea4f89d13ad2a2f3c1f",
+        "Hash": "cfa0a049caaba03ad804e58c6e78a1be5f1f5495b59b5c3b43e8d8aa35a4c0ea"
+    },
+    {
+        "Index": 152,
+        "Timestamp": 1746916105.321294,
+        "GDPIndex": 1.355,
+        "Date": "1998-10-01",
+        "Previous Hash": "cfa0a049caaba03ad804e58c6e78a1be5f1f5495b59b5c3b43e8d8aa35a4c0ea",
+        "Hash": "6f0384b4b98502407aab569152bc13acc47ba402c7dffeec04782886b9feef30"
+    },
+    {
+        "Index": 153,
+        "Timestamp": 1746916105.3241339,
+        "GDPIndex": 1.806,
+        "Date": "1999-01-01",
+        "Previous Hash": "6f0384b4b98502407aab569152bc13acc47ba402c7dffeec04782886b9feef30",
+        "Hash": "5d595f499d6c8207c449c17bf2396a31b87c8afe1d7ccd8722b636df16844151"
+    },
+    {
+        "Index": 154,
+        "Timestamp": 1746916105.326966,
+        "GDPIndex": 0.825,
+        "Date": "1999-04-01",
+        "Previous Hash": "5d595f499d6c8207c449c17bf2396a31b87c8afe1d7ccd8722b636df16844151",
+        "Hash": "1639110852be6545816ce474417c2e69dd325bb52371feb7b74c3e79907d621f"
+    },
+    {
+        "Index": 155,
+        "Timestamp": 1746916105.3297548,
+        "GDPIndex": 1.567,
+        "Date": "1999-07-01",
+        "Previous Hash": "1639110852be6545816ce474417c2e69dd325bb52371feb7b74c3e79907d621f",
+        "Hash": "28712a8dae71d1d7d29a46b65147298f0d961b1650e79670a16d0f6dec206cd3"
+    },
+    {
+        "Index": 156,
+        "Timestamp": 1746916105.332542,
+        "GDPIndex": 1.401,
+        "Date": "1999-10-01",
+        "Previous Hash": "28712a8dae71d1d7d29a46b65147298f0d961b1650e79670a16d0f6dec206cd3",
+        "Hash": "5efe31b4c3c5861670be4c907f9e2b75b79fb0bd9770d84b9ea42e6997bf8e1c"
+    },
+    {
+        "Index": 157,
+        "Timestamp": 1746916105.3353658,
+        "GDPIndex": 1.566,
+        "Date": "2000-01-01",
+        "Previous Hash": "5efe31b4c3c5861670be4c907f9e2b75b79fb0bd9770d84b9ea42e6997bf8e1c",
+        "Hash": "ae8d4831bee78d975723b2254390e1a2635e8dc1b314f10fd159763319168265"
+    },
+    {
+        "Index": 158,
+        "Timestamp": 1746916105.338206,
+        "GDPIndex": 1.177,
+        "Date": "2000-04-01",
+        "Previous Hash": "ae8d4831bee78d975723b2254390e1a2635e8dc1b314f10fd159763319168265",
+        "Hash": "6b97a531b9e2a384fb7702f1aee1c475cfb8cea6da9bff7b3943be6455d39c29"
+    },
+    {
+        "Index": 159,
+        "Timestamp": 1746916105.340965,
+        "GDPIndex": 1.025,
+        "Date": "2000-07-01",
+        "Previous Hash": "6b97a531b9e2a384fb7702f1aee1c475cfb8cea6da9bff7b3943be6455d39c29",
+        "Hash": "fbe27c94d3b0d74506744a8c43498ddbd1270c152f1e1ae13de0234b611e55c0"
+    },
+    {
+        "Index": 160,
+        "Timestamp": 1746916105.3438451,
+        "GDPIndex": 0.198,
+        "Date": "2000-10-01",
+        "Previous Hash": "fbe27c94d3b0d74506744a8c43498ddbd1270c152f1e1ae13de0234b611e55c0",
+        "Hash": "25e2afb186957490b5398319503d86bb3434eb0cb694f36c7bcf6e71106d06a3"
+    },
+    {
+        "Index": 161,
+        "Timestamp": 1746916105.346643,
+        "GDPIndex": 0.563,
+        "Date": "2001-01-01",
+        "Previous Hash": "25e2afb186957490b5398319503d86bb3434eb0cb694f36c7bcf6e71106d06a3",
+        "Hash": "8492cf2cb7027bc80d60b6e70f4b4b2e49e6900b007358beed37e496d7b9d691"
+    },
+    {
+        "Index": 162,
+        "Timestamp": 1746916105.3494961,
+        "GDPIndex": 0.314,
+        "Date": "2001-04-01",
+        "Previous Hash": "8492cf2cb7027bc80d60b6e70f4b4b2e49e6900b007358beed37e496d7b9d691",
+        "Hash": "3e10a61787cd1d8dccac524e1cbab8979b66d37aa0115de2604ee90a892de20f"
+    },
+    {
+        "Index": 163,
+        "Timestamp": 1746916105.352345,
+        "GDPIndex": -0.07,
+        "Date": "2001-07-01",
+        "Previous Hash": "3e10a61787cd1d8dccac524e1cbab8979b66d37aa0115de2604ee90a892de20f",
+        "Hash": "38811f0a5398b5cd4ac99bdfd4daa2db6d7580768d4d9ac8b25a55904df651a5"
+    },
+    {
+        "Index": 164,
+        "Timestamp": 1746916105.355152,
+        "GDPIndex": 0.6,
+        "Date": "2001-10-01",
+        "Previous Hash": "38811f0a5398b5cd4ac99bdfd4daa2db6d7580768d4d9ac8b25a55904df651a5",
+        "Hash": "2af67af1c7aee8eeb8701a6e1214527273ab709546ce5453ede03415bf6bb9a4"
+    },
+    {
+        "Index": 165,
+        "Timestamp": 1746916105.357981,
+        "GDPIndex": 1.462,
+        "Date": "2002-01-01",
+        "Previous Hash": "2af67af1c7aee8eeb8701a6e1214527273ab709546ce5453ede03415bf6bb9a4",
+        "Hash": "c6032ec08ae17a46ffac2e55d39e2145e961cb3c3d02a5e9d3b9d1af61527902"
+    },
+    {
+        "Index": 166,
+        "Timestamp": 1746916105.360734,
+        "GDPIndex": 0.591,
+        "Date": "2002-04-01",
+        "Previous Hash": "c6032ec08ae17a46ffac2e55d39e2145e961cb3c3d02a5e9d3b9d1af61527902",
+        "Hash": "f3b0de6eed9598bf815899b0ef5ed26efa50e7955329960c90689dae16e06523"
+    },
+    {
+        "Index": 167,
+        "Timestamp": 1746916105.363536,
+        "GDPIndex": 0.865,
+        "Date": "2002-07-01",
+        "Previous Hash": "f3b0de6eed9598bf815899b0ef5ed26efa50e7955329960c90689dae16e06523",
+        "Hash": "318dd0f5dc7112ffc24c701bed386c239e023e31307a97515275316dc6d93837"
+    },
+    {
+        "Index": 168,
+        "Timestamp": 1746916105.3664021,
+        "GDPIndex": 0.549,
+        "Date": "2002-10-01",
+        "Previous Hash": "318dd0f5dc7112ffc24c701bed386c239e023e31307a97515275316dc6d93837",
+        "Hash": "4738e04ea50f477e260c4d320a2c0cd3ecf268b18b87b29f6045fa25e74c29e4"
+    },
+    {
+        "Index": 169,
+        "Timestamp": 1746916105.369226,
+        "GDPIndex": 0.556,
+        "Date": "2003-01-01",
+        "Previous Hash": "4738e04ea50f477e260c4d320a2c0cd3ecf268b18b87b29f6045fa25e74c29e4",
+        "Hash": "ed8f66682d1d1489c1bd265783c1755e31ee3d31ebe8b3daef67d941fb4d0bf2"
+    },
+    {
+        "Index": 170,
+        "Timestamp": 1746916105.372064,
+        "GDPIndex": -0.145,
+        "Date": "2003-04-01",
+        "Previous Hash": "ed8f66682d1d1489c1bd265783c1755e31ee3d31ebe8b3daef67d941fb4d0bf2",
+        "Hash": "0e861c0bbce4e56381da01a423bd7ce61d716f500d598324f60c6a1f2bbc4790"
+    },
+    {
+        "Index": 171,
+        "Timestamp": 1746916105.374927,
+        "GDPIndex": 0.374,
+        "Date": "2003-07-01",
+        "Previous Hash": "0e861c0bbce4e56381da01a423bd7ce61d716f500d598324f60c6a1f2bbc4790",
+        "Hash": "f0fcbad8949ed20226d4551ed28de82774bc4d219e36ec5eb0811ffbc1b6c681"
+    },
+    {
+        "Index": 172,
+        "Timestamp": 1746916105.37772,
+        "GDPIndex": 0.687,
+        "Date": "2003-10-01",
+        "Previous Hash": "f0fcbad8949ed20226d4551ed28de82774bc4d219e36ec5eb0811ffbc1b6c681",
+        "Hash": "eb71ce75b329af901c1939a502feb5069eb7cdc9b7b09399473cf4e9b2e64e64"
+    },
+    {
+        "Index": 173,
+        "Timestamp": 1746916105.380472,
+        "GDPIndex": 0.727,
+        "Date": "2004-01-01",
+        "Previous Hash": "eb71ce75b329af901c1939a502feb5069eb7cdc9b7b09399473cf4e9b2e64e64",
+        "Hash": "52fc5374c3f8ac110ff63483385bce7cbee5fb4d1db837cc0747348f0f404d1e"
+    },
+    {
+        "Index": 174,
+        "Timestamp": 1746916105.383177,
+        "GDPIndex": 1.185,
+        "Date": "2004-04-01",
+        "Previous Hash": "52fc5374c3f8ac110ff63483385bce7cbee5fb4d1db837cc0747348f0f404d1e",
+        "Hash": "3b12a6bfb9d3fc323178b7499ef6cec9d4967e6475bc0436620d8afdfcca96a3"
+    },
+    {
+        "Index": 175,
+        "Timestamp": 1746916105.385941,
+        "GDPIndex": 1.182,
+        "Date": "2004-07-01",
+        "Previous Hash": "3b12a6bfb9d3fc323178b7499ef6cec9d4967e6475bc0436620d8afdfcca96a3",
+        "Hash": "773061a7f695cfe72ef0e2109e8398f0ae81519869927a95f9b8e7086a0c7443"
+    },
+    {
+        "Index": 176,
+        "Timestamp": 1746916105.388706,
+        "GDPIndex": 0.722,
+        "Date": "2004-10-01",
+        "Previous Hash": "773061a7f695cfe72ef0e2109e8398f0ae81519869927a95f9b8e7086a0c7443",
+        "Hash": "450088381c12ca9ab70d21aa61db934e82849a013d47df61f5667b47fb7fef09"
+    },
+    {
+        "Index": 177,
+        "Timestamp": 1746916105.391495,
+        "GDPIndex": 0.35,
+        "Date": "2005-01-01",
+        "Previous Hash": "450088381c12ca9ab70d21aa61db934e82849a013d47df61f5667b47fb7fef09",
+        "Hash": "2fb09afc5181b8b69282ef1f04d1c5bee3d15a8509e96b0e76925bc4e323df01"
+    },
+    {
+        "Index": 178,
+        "Timestamp": 1746916105.394273,
+        "GDPIndex": 0.723,
+        "Date": "2005-04-01",
+        "Previous Hash": "2fb09afc5181b8b69282ef1f04d1c5bee3d15a8509e96b0e76925bc4e323df01",
+        "Hash": "122332171c1c001d1edfa488d44dd1d3c9568bbf1382c5e2d6e851cd9b8f56d4"
+    },
+    {
+        "Index": 179,
+        "Timestamp": 1746916105.397034,
+        "GDPIndex": 1.212,
+        "Date": "2005-07-01",
+        "Previous Hash": "122332171c1c001d1edfa488d44dd1d3c9568bbf1382c5e2d6e851cd9b8f56d4",
+        "Hash": "81580d44a2e74074f28fc253d679231aa0822f7138238d2862e669290d1f25f0"
+    },
+    {
+        "Index": 180,
+        "Timestamp": 1746916105.399925,
+        "GDPIndex": 0.993,
+        "Date": "2005-10-01",
+        "Previous Hash": "81580d44a2e74074f28fc253d679231aa0822f7138238d2862e669290d1f25f0",
+        "Hash": "6c3804ec99347f78a1e6506d12b8bdac840fd6725cae5ee4ca479a3317b515f1"
+    },
+    {
+        "Index": 181,
+        "Timestamp": 1746916105.402761,
+        "GDPIndex": 0.812,
+        "Date": "2006-01-01",
+        "Previous Hash": "6c3804ec99347f78a1e6506d12b8bdac840fd6725cae5ee4ca479a3317b515f1",
+        "Hash": "954d341d220d87d29bab8b5c7733560f706a791d72c5d3694a42a0f6485b97ca"
+    },
+    {
+        "Index": 182,
+        "Timestamp": 1746916105.4055629,
+        "GDPIndex": 0.05,
+        "Date": "2006-04-01",
+        "Previous Hash": "954d341d220d87d29bab8b5c7733560f706a791d72c5d3694a42a0f6485b97ca",
+        "Hash": "f1ef4ac71e717fcdf76f533d2f6b3517e60a1369969817a38b3476696ac5f904"
+    },
+    {
+        "Index": 183,
+        "Timestamp": 1746916105.408515,
+        "GDPIndex": 0.282,
+        "Date": "2006-07-01",
+        "Previous Hash": "f1ef4ac71e717fcdf76f533d2f6b3517e60a1369969817a38b3476696ac5f904",
+        "Hash": "f1da0301a69a18d1f24fe0146f04a29f108b9ddc6fe3e7f907aeca6228b93dc4"
+    },
+    {
+        "Index": 184,
+        "Timestamp": 1746916105.411474,
+        "GDPIndex": 0.398,
+        "Date": "2006-10-01",
+        "Previous Hash": "f1da0301a69a18d1f24fe0146f04a29f108b9ddc6fe3e7f907aeca6228b93dc4",
+        "Hash": "8b7e7a123faa6fcd9e4337fed2b9610610b7bcc2ecbf3a07accc8936134d9806"
+    },
+    {
+        "Index": 185,
+        "Timestamp": 1746916105.414386,
+        "GDPIndex": 0.638,
+        "Date": "2007-01-01",
+        "Previous Hash": "8b7e7a123faa6fcd9e4337fed2b9610610b7bcc2ecbf3a07accc8936134d9806",
+        "Hash": "d6653be69cb227c2d43f645e08e40fd6d90fe96a4bfd2ed424f105b3850dedfb"
+    },
+    {
+        "Index": 186,
+        "Timestamp": 1746916105.4172559,
+        "GDPIndex": 0.966,
+        "Date": "2007-04-01",
+        "Previous Hash": "d6653be69cb227c2d43f645e08e40fd6d90fe96a4bfd2ed424f105b3850dedfb",
+        "Hash": "e1b402b9a414c24c9188cb5271d725855c24e35e3f4e6e46eeacfce2f8f9ea56"
+    },
+    {
+        "Index": 187,
+        "Timestamp": 1746916105.420156,
+        "GDPIndex": 0.375,
+        "Date": "2007-07-01",
+        "Previous Hash": "e1b402b9a414c24c9188cb5271d725855c24e35e3f4e6e46eeacfce2f8f9ea56",
+        "Hash": "793d2df03e7d385dac8e491a4b1cbac74b74afff9642db56ce21c6fc6c9b209a"
+    },
+    {
+        "Index": 188,
+        "Timestamp": 1746916105.423126,
+        "GDPIndex": 0.131,
+        "Date": "2007-10-01",
+        "Previous Hash": "793d2df03e7d385dac8e491a4b1cbac74b74afff9642db56ce21c6fc6c9b209a",
+        "Hash": "afe348d2f128e0dc1b08648dd99f793c2d6bbbe91fe512fbc15d33b6ac6240e2"
+    },
+    {
+        "Index": 189,
+        "Timestamp": 1746916105.425935,
+        "GDPIndex": 0.075,
+        "Date": "2008-01-01",
+        "Previous Hash": "afe348d2f128e0dc1b08648dd99f793c2d6bbbe91fe512fbc15d33b6ac6240e2",
+        "Hash": "e2bbfedf0711187737824dd8cd146f281691631c1f8a8c177e49d0cb58cc64d3"
+    },
+    {
+        "Index": 190,
+        "Timestamp": 1746916105.4287841,
+        "GDPIndex": 0.364,
+        "Date": "2008-04-01",
+        "Previous Hash": "e2bbfedf0711187737824dd8cd146f281691631c1f8a8c177e49d0cb58cc64d3",
+        "Hash": "8ae8b54e5f16bda4a6311650bd4e929811ec7dcec93b067bd3b818e5ec827595"
+    },
+    {
+        "Index": 191,
+        "Timestamp": 1746916105.431684,
+        "GDPIndex": 0.822,
+        "Date": "2008-07-01",
+        "Previous Hash": "8ae8b54e5f16bda4a6311650bd4e929811ec7dcec93b067bd3b818e5ec827595",
+        "Hash": "98251291ca468268665aebfbae1cbe81ecebdb4da645567b3497504be24c2d30"
+    },
+    {
+        "Index": 192,
+        "Timestamp": 1746916105.434591,
+        "GDPIndex": -1.16,
+        "Date": "2008-10-01",
+        "Previous Hash": "98251291ca468268665aebfbae1cbe81ecebdb4da645567b3497504be24c2d30",
+        "Hash": "a2327370c9d4e8cbe8fa48a9729f20efcfb425ed24cb745b935e5ec48173ad86"
+    },
+    {
+        "Index": 193,
+        "Timestamp": 1746916105.437529,
+        "GDPIndex": -2.257,
+        "Date": "2009-01-01",
+        "Previous Hash": "a2327370c9d4e8cbe8fa48a9729f20efcfb425ed24cb745b935e5ec48173ad86",
+        "Hash": "04d3898c6a8ec3f1a598ddecdf5daad6e8dff6a0c42bea781f5985082f0ca920"
+    },
+    {
+        "Index": 194,
+        "Timestamp": 1746916105.4404008,
+        "GDPIndex": -1.079,
+        "Date": "2009-04-01",
+        "Previous Hash": "04d3898c6a8ec3f1a598ddecdf5daad6e8dff6a0c42bea781f5985082f0ca920",
+        "Hash": "b6c63f6c90ddccc50a18b99efacd0a1a5fc4bcaabaf12a01d38e8e931e75ab58"
+    },
+    {
+        "Index": 195,
+        "Timestamp": 1746916105.4433038,
+        "GDPIndex": 0.447,
+        "Date": "2009-07-01",
+        "Previous Hash": "b6c63f6c90ddccc50a18b99efacd0a1a5fc4bcaabaf12a01d38e8e931e75ab58",
+        "Hash": "e9df28c3dff38d108cd229cc4c673ecff592a9113628ff2eb24f5ab679dfc124"
+    },
+    {
+        "Index": 196,
+        "Timestamp": 1746916105.446084,
+        "GDPIndex": 1.162,
+        "Date": "2009-10-01",
+        "Previous Hash": "e9df28c3dff38d108cd229cc4c673ecff592a9113628ff2eb24f5ab679dfc124",
+        "Hash": "e6d8eb40575063a859e432dbefd1587756bf6a286a2c02a81140d12697cbec57"
+    },
+    {
+        "Index": 197,
+        "Timestamp": 1746916105.44887,
+        "GDPIndex": 1.212,
+        "Date": "2010-01-01",
+        "Previous Hash": "e6d8eb40575063a859e432dbefd1587756bf6a286a2c02a81140d12697cbec57",
+        "Hash": "469071c68690abac93679dd60b75de8612007690331596df78c6ffa0df39cd06"
+    },
+    {
+        "Index": 198,
+        "Timestamp": 1746916105.4518242,
+        "GDPIndex": 0.524,
+        "Date": "2010-04-01",
+        "Previous Hash": "469071c68690abac93679dd60b75de8612007690331596df78c6ffa0df39cd06",
+        "Hash": "de5661049dac198a42c62b054933ad7de84dd83f0f01f339df35d2fd443a6b66"
+    },
+    {
+        "Index": 199,
+        "Timestamp": 1746916105.4546628,
+        "GDPIndex": 0.7,
+        "Date": "2010-07-01",
+        "Previous Hash": "de5661049dac198a42c62b054933ad7de84dd83f0f01f339df35d2fd443a6b66",
+        "Hash": "fdf93affb300fb5f618c5996c2f3e80b3d15167a3a9da8798f5fa0e63a7e9a4a"
+    },
+    {
+        "Index": 200,
+        "Timestamp": 1746916105.457448,
+        "GDPIndex": 1.122,
+        "Date": "2010-10-01",
+        "Previous Hash": "fdf93affb300fb5f618c5996c2f3e80b3d15167a3a9da8798f5fa0e63a7e9a4a",
+        "Hash": "18b320c01ac20a1c47ebeae57f3109a3940ecf0a5db1d5d761d89e23335b2e75"
+    },
+    {
+        "Index": 201,
+        "Timestamp": 1746916105.460431,
+        "GDPIndex": 0.762,
+        "Date": "2011-01-01",
+        "Previous Hash": "18b320c01ac20a1c47ebeae57f3109a3940ecf0a5db1d5d761d89e23335b2e75",
+        "Hash": "12335a30e6376464a3ce0f5a0c11aa457af66647b5ba6b7093ffeb4e1584ac55"
+    },
+    {
+        "Index": 202,
+        "Timestamp": 1746916105.4632242,
+        "GDPIndex": 0.182,
+        "Date": "2011-04-01",
+        "Previous Hash": "12335a30e6376464a3ce0f5a0c11aa457af66647b5ba6b7093ffeb4e1584ac55",
+        "Hash": "add5d41653598f9d428e42f1e34afc113edc8be878250da58ab8b586c40b3fe4"
+    },
+    {
+        "Index": 203,
+        "Timestamp": 1746916105.466031,
+        "GDPIndex": 1.368,
+        "Date": "2011-07-01",
+        "Previous Hash": "add5d41653598f9d428e42f1e34afc113edc8be878250da58ab8b586c40b3fe4",
+        "Hash": "103ec35194c2bc3bc9dd0ef5b511b1a4171ee31f78854a234e584dbc2245814d"
+    },
+    {
+        "Index": 204,
+        "Timestamp": 1746916105.4688342,
+        "GDPIndex": 0.795,
+        "Date": "2011-10-01",
+        "Previous Hash": "103ec35194c2bc3bc9dd0ef5b511b1a4171ee31f78854a234e584dbc2245814d",
+        "Hash": "1815320c83cdc6c155b7ca66b020d48ba45075e7da44319b9aa76181f80451c7"
+    },
+    {
+        "Index": 205,
+        "Timestamp": 1746916105.4716318,
+        "GDPIndex": 0.063,
+        "Date": "2012-01-01",
+        "Previous Hash": "1815320c83cdc6c155b7ca66b020d48ba45075e7da44319b9aa76181f80451c7",
+        "Hash": "7e0c18008f082c7e700a879f9b7f1e6e783d18a43dd7d73457a01027f21aa93c"
+    },
+    {
+        "Index": 206,
+        "Timestamp": 1746916105.4744372,
+        "GDPIndex": 0.325,
+        "Date": "2012-04-01",
+        "Previous Hash": "7e0c18008f082c7e700a879f9b7f1e6e783d18a43dd7d73457a01027f21aa93c",
+        "Hash": "4e4e43b0dead57f08db39e3fd3ba6a72fdb06916d117b1fe53587c1b272a2464"
+    },
+    {
+        "Index": 207,
+        "Timestamp": 1746916105.477195,
+        "GDPIndex": 0.137,
+        "Date": "2012-07-01",
+        "Previous Hash": "4e4e43b0dead57f08db39e3fd3ba6a72fdb06916d117b1fe53587c1b272a2464",
+        "Hash": "c69f79a68b76052e2b9bbe33257875aa687decc103e29094f9c2b05d4f749eb1"
+    },
+    {
+        "Index": 208,
+        "Timestamp": 1746916105.4800398,
+        "GDPIndex": 0.206,
+        "Date": "2012-10-01",
+        "Previous Hash": "c69f79a68b76052e2b9bbe33257875aa687decc103e29094f9c2b05d4f749eb1",
+        "Hash": "bd9bd37a2e23e35f5cb04826dce26c8507dc27aa9526c64b2eef79c4ac8ea0d2"
+    },
+    {
+        "Index": 209,
+        "Timestamp": 1746916105.48287,
+        "GDPIndex": 0.895,
+        "Date": "2013-01-01",
+        "Previous Hash": "bd9bd37a2e23e35f5cb04826dce26c8507dc27aa9526c64b2eef79c4ac8ea0d2",
+        "Hash": "d414a6061680422de0613f28620863b81f12acb00efd7bf00b28ab76679bf3c3"
+    },
+    {
+        "Index": 210,
+        "Timestamp": 1746916105.485776,
+        "GDPIndex": 0.576,
+        "Date": "2013-04-01",
+        "Previous Hash": "d414a6061680422de0613f28620863b81f12acb00efd7bf00b28ab76679bf3c3",
+        "Hash": "9b7ea1f92f63937f5a4e6ae66e5b4bc54b507b09d3149cf6d571293b76710cf8"
+    },
+    {
+        "Index": 211,
+        "Timestamp": 1746916105.488559,
+        "GDPIndex": 0.822,
+        "Date": "2013-07-01",
+        "Previous Hash": "9b7ea1f92f63937f5a4e6ae66e5b4bc54b507b09d3149cf6d571293b76710cf8",
+        "Hash": "0a82ce2e6fa31e029a24dd5ef9cf8a012254a3ebd7fa07a339ed1371b5ba612a"
+    },
+    {
+        "Index": 212,
+        "Timestamp": 1746916105.4914591,
+        "GDPIndex": 1.047,
+        "Date": "2013-10-01",
+        "Previous Hash": "0a82ce2e6fa31e029a24dd5ef9cf8a012254a3ebd7fa07a339ed1371b5ba612a",
+        "Hash": "666a0188f29f8c843da63f0d9d972dbebe5c4faeba72c40e970d0feda9e40b48"
+    },
+    {
+        "Index": 213,
+        "Timestamp": 1746916105.4943192,
+        "GDPIndex": 0.169,
+        "Date": "2014-01-01",
+        "Previous Hash": "666a0188f29f8c843da63f0d9d972dbebe5c4faeba72c40e970d0feda9e40b48",
+        "Hash": "8dfb240a3657191e52addc09d4f869e5b50fe31f3888491148a8bab3c6f7ebef"
+    },
+    {
+        "Index": 214,
+        "Timestamp": 1746916105.497194,
+        "GDPIndex": 0.912,
+        "Date": "2014-04-01",
+        "Previous Hash": "8dfb240a3657191e52addc09d4f869e5b50fe31f3888491148a8bab3c6f7ebef",
+        "Hash": "97c75fc5944fb0c49731747db56a241788ce513cdd458e2c26e314286cf57c2d"
+    },
+    {
+        "Index": 215,
+        "Timestamp": 1746916105.500146,
+        "GDPIndex": 0.959,
+        "Date": "2014-07-01",
+        "Previous Hash": "97c75fc5944fb0c49731747db56a241788ce513cdd458e2c26e314286cf57c2d",
+        "Hash": "b8654b8441e5d88be9151762b32e9b53274caf513e56b7d24dd203ef9d43c3c5"
+    },
+    {
+        "Index": 216,
+        "Timestamp": 1746916105.503134,
+        "GDPIndex": 0.691,
+        "Date": "2014-10-01",
+        "Previous Hash": "b8654b8441e5d88be9151762b32e9b53274caf513e56b7d24dd203ef9d43c3c5",
+        "Hash": "9db361a613558387c06781159de3f7924f3160310d2796c34216f18c8d4c2c7a"
+    },
+    {
+        "Index": 217,
+        "Timestamp": 1746916105.5060532,
+        "GDPIndex": -0.557,
+        "Date": "2015-01-01",
+        "Previous Hash": "9db361a613558387c06781159de3f7924f3160310d2796c34216f18c8d4c2c7a",
+        "Hash": "2372e12045d95870b402f74beb9dd2c70a2052be80c5c0812dc6c6a00b64e934"
+    },
+    {
+        "Index": 218,
+        "Timestamp": 1746916105.508957,
+        "GDPIndex": -0.273,
+        "Date": "2015-04-01",
+        "Previous Hash": "2372e12045d95870b402f74beb9dd2c70a2052be80c5c0812dc6c6a00b64e934",
+        "Hash": "74104e57e2d8ece28000192b89c65cb0709baa88841913b398a12e832daf0579"
+    },
+    {
+        "Index": 219,
+        "Timestamp": 1746916105.5117528,
+        "GDPIndex": 0.358,
+        "Date": "2015-07-01",
+        "Previous Hash": "74104e57e2d8ece28000192b89c65cb0709baa88841913b398a12e832daf0579",
+        "Hash": "64f9eb574206cf5ee5e7ecdddd73f7eb87d33d97920de3d67bd70dfc2e5a92b3"
+    },
+    {
+        "Index": 220,
+        "Timestamp": 1746916105.514643,
+        "GDPIndex": 0.066,
+        "Date": "2015-10-01",
+        "Previous Hash": "64f9eb574206cf5ee5e7ecdddd73f7eb87d33d97920de3d67bd70dfc2e5a92b3",
+        "Hash": "540dfdb4233bda280d5890f52a11716f07d693eb908cec093fcc1f3116cbc75a"
+    },
+    {
+        "Index": 221,
+        "Timestamp": 1746916105.517596,
+        "GDPIndex": 0.592,
+        "Date": "2016-01-01",
+        "Previous Hash": "540dfdb4233bda280d5890f52a11716f07d693eb908cec093fcc1f3116cbc75a",
+        "Hash": "d8023b79505a068e52fdb105ab3ed2de99532d26005c8081823886dbbcda0533"
+    },
+    {
+        "Index": 222,
+        "Timestamp": 1746916105.5204859,
+        "GDPIndex": -0.498,
+        "Date": "2016-04-01",
+        "Previous Hash": "d8023b79505a068e52fdb105ab3ed2de99532d26005c8081823886dbbcda0533",
+        "Hash": "bc7fb7f40ab4da5251c663d4ec65914accbeef65ac0b76405a1b249012033912"
+    },
+    {
+        "Index": 223,
+        "Timestamp": 1746916105.523424,
+        "GDPIndex": 1.038,
+        "Date": "2016-07-01",
+        "Previous Hash": "bc7fb7f40ab4da5251c663d4ec65914accbeef65ac0b76405a1b249012033912",
+        "Hash": "f07f94917d598464715c154d1dd8cf7430bd754b7a0ab340d87118d923ad3a9b"
+    },
+    {
+        "Index": 224,
+        "Timestamp": 1746916105.526366,
+        "GDPIndex": 0.561,
+        "Date": "2016-10-01",
+        "Previous Hash": "f07f94917d598464715c154d1dd8cf7430bd754b7a0ab340d87118d923ad3a9b",
+        "Hash": "c8eeacb5ad69d57d24da42cb081c700ca4ddc311021614a029cbc8aeef2ca82e"
+    },
+    {
+        "Index": 225,
+        "Timestamp": 1746916105.529137,
+        "GDPIndex": 1.258,
+        "Date": "2017-01-01",
+        "Previous Hash": "c8eeacb5ad69d57d24da42cb081c700ca4ddc311021614a029cbc8aeef2ca82e",
+        "Hash": "fe4899d15548b9d5e740aea02fdc2bfe20839b33f7f5743a183b09bff1fb8b6f"
+    },
+    {
+        "Index": 226,
+        "Timestamp": 1746916105.531947,
+        "GDPIndex": 1.053,
+        "Date": "2017-04-01",
+        "Previous Hash": "fe4899d15548b9d5e740aea02fdc2bfe20839b33f7f5743a183b09bff1fb8b6f",
+        "Hash": "6f8f9261cd2b143a91bdd0e2d88dac1f43a426426b829c931fd83a397253f6a6"
+    },
+    {
+        "Index": 227,
+        "Timestamp": 1746916105.534857,
+        "GDPIndex": 0.031,
+        "Date": "2017-07-01",
+        "Previous Hash": "6f8f9261cd2b143a91bdd0e2d88dac1f43a426426b829c931fd83a397253f6a6",
+        "Hash": "82fbff8ad3dcd7bdf3e0ebff5b5e3d2bff741965ce206b34acc0665472ee4634"
+    },
+    {
+        "Index": 228,
+        "Timestamp": 1746916105.537767,
+        "GDPIndex": 0.507,
+        "Date": "2017-10-01",
+        "Previous Hash": "82fbff8ad3dcd7bdf3e0ebff5b5e3d2bff741965ce206b34acc0665472ee4634",
+        "Hash": "8351b96908c8909c2a42c0e6eb3e6bee29c31802f302de87283e9816bfedaf31"
+    },
+    {
+        "Index": 229,
+        "Timestamp": 1746916105.5406861,
+        "GDPIndex": 1.163,
+        "Date": "2018-01-01",
+        "Previous Hash": "8351b96908c8909c2a42c0e6eb3e6bee29c31802f302de87283e9816bfedaf31",
+        "Hash": "41a35afed908447d1515ad95bed357c36051e504edb56285eb61324cf7b568ac"
+    },
+    {
+        "Index": 230,
+        "Timestamp": 1746916105.543631,
+        "GDPIndex": 0.78,
+        "Date": "2018-04-01",
+        "Previous Hash": "41a35afed908447d1515ad95bed357c36051e504edb56285eb61324cf7b568ac",
+        "Hash": "97ffaaf177189075ed2ae5c41803014acaeb4ce5ad4707dbec827b80d96edb0d"
+    },
+    {
+        "Index": 231,
+        "Timestamp": 1746916105.546439,
+        "GDPIndex": 0.504,
+        "Date": "2018-07-01",
+        "Previous Hash": "97ffaaf177189075ed2ae5c41803014acaeb4ce5ad4707dbec827b80d96edb0d",
+        "Hash": "468751b48d5a46d59583081c3f542e76fb532cf7dfd20652c6c4959b59aa1bc7"
+    },
+    {
+        "Index": 232,
+        "Timestamp": 1746916105.549032,
+        "GDPIndex": 0.236,
+        "Date": "2018-10-01",
+        "Previous Hash": "468751b48d5a46d59583081c3f542e76fb532cf7dfd20652c6c4959b59aa1bc7",
+        "Hash": "34a1fa08386f7907fac9f1bf80c8c16f05ecc8d663076dc9d32ec6224358be8f"
+    },
+    {
+        "Index": 233,
+        "Timestamp": 1746916105.551651,
+        "GDPIndex": 0.241,
+        "Date": "2019-01-01",
+        "Previous Hash": "34a1fa08386f7907fac9f1bf80c8c16f05ecc8d663076dc9d32ec6224358be8f",
+        "Hash": "fbdd80baf514b79f5bae6b5cee6aec9646be7804ddbd31e365121e046889dd06"
+    },
+    {
+        "Index": 234,
+        "Timestamp": 1746916105.55423,
+        "GDPIndex": 1.095,
+        "Date": "2019-04-01",
+        "Previous Hash": "fbdd80baf514b79f5bae6b5cee6aec9646be7804ddbd31e365121e046889dd06",
+        "Hash": "5390a7f557d9808ea44a92000031b8fab4da0927020df6f113c81bf93f429b7f"
+    },
+    {
+        "Index": 235,
+        "Timestamp": 1746916105.5568051,
+        "GDPIndex": 0.28,
+        "Date": "2019-07-01",
+        "Previous Hash": "5390a7f557d9808ea44a92000031b8fab4da0927020df6f113c81bf93f429b7f",
+        "Hash": "809e17fff40ca8f40c80cedd2c82747a23280182d0b00d9526df829d91adede5"
+    },
+    {
+        "Index": 236,
+        "Timestamp": 1746916105.559364,
+        "GDPIndex": 0.286,
+        "Date": "2019-10-01",
+        "Previous Hash": "809e17fff40ca8f40c80cedd2c82747a23280182d0b00d9526df829d91adede5",
+        "Hash": "6d4697836c19bec5a00ce9ca52d47a13325b6ebe04082773f6f70d8437a03128"
+    },
+    {
+        "Index": 237,
+        "Timestamp": 1746916105.561943,
+        "GDPIndex": -1.95,
+        "Date": "2020-01-01",
+        "Previous Hash": "6d4697836c19bec5a00ce9ca52d47a13325b6ebe04082773f6f70d8437a03128",
+        "Hash": "9af59d3864106d7bf8039ab965525fb717d802c87f1e8255e1870e79cdfaf717"
+    },
+    {
+        "Index": 238,
+        "Timestamp": 1746916105.564533,
+        "GDPIndex": -11.0,
+        "Date": "2020-04-01",
+        "Previous Hash": "9af59d3864106d7bf8039ab965525fb717d802c87f1e8255e1870e79cdfaf717",
+        "Hash": "fb0914b100fa642dc371e2a9ea309537a090224290e9b7722264a4712171aa6d"
+    },
+    {
+        "Index": 239,
+        "Timestamp": 1746916105.5670662,
+        "GDPIndex": 9.084,
+        "Date": "2020-07-01",
+        "Previous Hash": "fb0914b100fa642dc371e2a9ea309537a090224290e9b7722264a4712171aa6d",
+        "Hash": "f03f0d9eabf8d83840187682d38e4e938dc27d2f5df3b21c71d55559fe8fae97"
+    },
+    {
+        "Index": 240,
+        "Timestamp": 1746916105.569602,
+        "GDPIndex": 1.878,
+        "Date": "2020-10-01",
+        "Previous Hash": "f03f0d9eabf8d83840187682d38e4e938dc27d2f5df3b21c71d55559fe8fae97",
+        "Hash": "8ecb89ea37c82ebff80519db79b4cfba5c47d497c85d2ea5a833d7368935e499"
+    },
+    {
+        "Index": 241,
+        "Timestamp": 1746916105.572242,
+        "GDPIndex": 1.704,
+        "Date": "2021-01-01",
+        "Previous Hash": "8ecb89ea37c82ebff80519db79b4cfba5c47d497c85d2ea5a833d7368935e499",
+        "Hash": "8d6b596c453fe912bfcb7c2aa8e2a4a6d35c4288527aee30054392e156587e8f"
+    },
+    {
+        "Index": 242,
+        "Timestamp": 1746916105.574753,
+        "GDPIndex": -0.117,
+        "Date": "2021-04-01",
+        "Previous Hash": "8d6b596c453fe912bfcb7c2aa8e2a4a6d35c4288527aee30054392e156587e8f",
+        "Hash": "6213cc3c760dfed7906ead6b231e6b97dc6bfcdaa83c3ba2adf5f8ae60502838"
+    },
+    {
+        "Index": 243,
+        "Timestamp": 1746916105.5772958,
+        "GDPIndex": 2.015,
+        "Date": "2021-07-01",
+        "Previous Hash": "6213cc3c760dfed7906ead6b231e6b97dc6bfcdaa83c3ba2adf5f8ae60502838",
+        "Hash": "41ebee3ecd78f129d6d16665119aacf9fd776c4cf5070ed4a0fff1e5a4012493"
+    },
+    {
+        "Index": 244,
+        "Timestamp": 1746916105.5797791,
+        "GDPIndex": 1.79,
+        "Date": "2021-10-01",
+        "Previous Hash": "41ebee3ecd78f129d6d16665119aacf9fd776c4cf5070ed4a0fff1e5a4012493",
+        "Hash": "9883f0df4e93e9b3803601e1bff490c7bee9f5070dc2ee9e227387cbf0aafea3"
+    },
+    {
+        "Index": 245,
+        "Timestamp": 1746916105.5823889,
+        "GDPIndex": 0.853,
+        "Date": "2022-01-01",
+        "Previous Hash": "9883f0df4e93e9b3803601e1bff490c7bee9f5070dc2ee9e227387cbf0aafea3",
+        "Hash": "e0929af6e574b8f1e0117b4a78584c600f69ed55b536ec041108c7e5fbc9c64a"
+    },
+    {
+        "Index": 246,
+        "Timestamp": 1746916105.585022,
+        "GDPIndex": 0.938,
+        "Date": "2022-04-01",
+        "Previous Hash": "e0929af6e574b8f1e0117b4a78584c600f69ed55b536ec041108c7e5fbc9c64a",
+        "Hash": "f2afe325e37fccd24b5493210e802f37401bed5a107dc8e4d4254e69f8559874"
+    },
+    {
+        "Index": 247,
+        "Timestamp": 1746916105.5875998,
+        "GDPIndex": 0.605,
+        "Date": "2022-07-01",
+        "Previous Hash": "f2afe325e37fccd24b5493210e802f37401bed5a107dc8e4d4254e69f8559874",
+        "Hash": "b471b31142c5d3b882b04f1bafb7ae1decb977153275b04b34a66bbc0065172f"
+    },
+    {
+        "Index": 248,
+        "Timestamp": 1746916105.590192,
+        "GDPIndex": -0.143,
+        "Date": "2022-10-01",
+        "Previous Hash": "b471b31142c5d3b882b04f1bafb7ae1decb977153275b04b34a66bbc0065172f",
+        "Hash": "82e1c06b0cb4411edad8f4221eca293ccbe2d00aa7cb0cbc4bc250a204a4a653"
+    },
+    {
+        "Index": 249,
+        "Timestamp": 1746916105.592761,
+        "GDPIndex": 0.967,
+        "Date": "2023-01-01",
+        "Previous Hash": "82e1c06b0cb4411edad8f4221eca293ccbe2d00aa7cb0cbc4bc250a204a4a653",
+        "Hash": "27c10a25e65fcc85a6dca7142aab9cb3a3de64fb43971e8a4e5802a7ef40b585"
+    },
+    {
+        "Index": 250,
+        "Timestamp": 1746916105.595256,
+        "GDPIndex": 0.207,
+        "Date": "2023-04-01",
+        "Previous Hash": "27c10a25e65fcc85a6dca7142aab9cb3a3de64fb43971e8a4e5802a7ef40b585",
+        "Hash": "6cb9e3edf073013dabe1a13d40c9c73a27b4f118759328f7ed210899a52e13c5"
+    },
+    {
+        "Index": 251,
+        "Timestamp": 1746916105.597776,
+        "GDPIndex": -0.138,
+        "Date": "2023-07-01",
+        "Previous Hash": "6cb9e3edf073013dabe1a13d40c9c73a27b4f118759328f7ed210899a52e13c5",
+        "Hash": "ab0f0f3a3d402fd526630a6091b6232edb906a4f8fad89fa8cec349306162976"
+    },
+    {
+        "Index": 252,
+        "Timestamp": 1746916105.59966,
+        "GDPIndex": 0.175,
+        "Date": "2023-10-01",
+        "Previous Hash": "ab0f0f3a3d402fd526630a6091b6232edb906a4f8fad89fa8cec349306162976",
+        "Hash": "7c4f565df96636536fda102262b34b99089745f8e7f85a9f3e5a5a6a8fa29b99"
+    },
+    {
+        "Index": 253,
+        "Timestamp": 1746916105.601599,
+        "GDPIndex": 0.454,
+        "Date": "2024-01-01",
+        "Previous Hash": "7c4f565df96636536fda102262b34b99089745f8e7f85a9f3e5a5a6a8fa29b99",
+        "Hash": "a3dcd081add4741c2ef036194889db24c7a6047c8c879dc93a390121b37cafc4"
+    },
+    {
+        "Index": 254,
+        "Timestamp": 1746916105.603542,
+        "GDPIndex": 0.685,
+        "Date": "2024-04-01",
+        "Previous Hash": "a3dcd081add4741c2ef036194889db24c7a6047c8c879dc93a390121b37cafc4",
+        "Hash": "5c682fe91ca97893eadab78e4dceaf787976353c9ed3b8acd09fc78f1b06b87c"
+    },
+    {
+        "Index": 255,
+        "Timestamp": 1746916105.605487,
+        "GDPIndex": 0.549,
+        "Date": "2024-07-01",
+        "Previous Hash": "5c682fe91ca97893eadab78e4dceaf787976353c9ed3b8acd09fc78f1b06b87c",
+        "Hash": "82b8f71839f8a9ba172a18850351d467da3c1691577819ed0c7219d601d731b4"
+    },
+    {
+        "Index": 256,
+        "Timestamp": 1746916105.607368,
+        "GDPIndex": 0.647,
+        "Date": "2024-10-01",
+        "Previous Hash": "82b8f71839f8a9ba172a18850351d467da3c1691577819ed0c7219d601d731b4",
+        "Hash": "840a2871316e07809ff89fe527964465395ad252191806835392f9d8fb2ff92d"
+    }
+]

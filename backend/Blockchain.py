@@ -48,9 +48,7 @@ class Blockchain:
         for block in self.chain:
             print(f'Index: {block.index}')
             print(f'Timestamp: {block.timestamp}') 
-            print(f'Product: {block.data['product']}')
-            print(f'Price: {block.data['price']}')    
-            print(f'Date: {block.data['date']}')                                
+            print(f'Data: {block.data}')                         
             print(f'Previous Hash: {block.previous_hash}')
             print(f'Hash: {block.hash}')
             print('-' * 40)
