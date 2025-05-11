@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 import zipfile
 import io
+import os
 from urllib.parse import urlparse, parse_qs
 
 def get_data(url):
@@ -33,8 +34,15 @@ def get_data(url):
         print(f"📄 Extracting file: {csv_filename}")
         with z.open(csv_filename) as f:
             df = pd.read_csv(f)
-
+            
     return df
+
+def save_csv_file(df, filename, directory='fetchedData'):
+    os.makedirs(directory, exist_ok=True)  # Create directory if it doesn't exist
+    filepath = os.path.join(directory, filename)
+    df.to_csv(filepath, index=False)
+    print(f"✅ Saved CSV to: {filepath}")
+
 
 # Example usage
 if __name__ == "__main__":
