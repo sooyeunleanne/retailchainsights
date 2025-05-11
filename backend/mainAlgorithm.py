@@ -34,8 +34,6 @@ def get_data(url):
         print(f"📄 Extracting file: {csv_filename}")
         with z.open(csv_filename) as f:
             df = pd.read_csv(f)
-
-    print(df.head)
             
     return df
 
