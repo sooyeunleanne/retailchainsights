@@ -21,8 +21,8 @@ def store_exchange_data(df):
 
   for _, row in df.iterrows():
     data = {
-      'product': row.get('Type of currency', 'Unknown'),
-      'price': row.get('VALUE', 'NaN'),
+      'currency': row.get('Type of currency', 'Unknown'),
+      'value': row.get('VALUE', 'NaN'),
       'date': row.get('REF_DATE')
     }
     blockchain.add_block(data)
@@ -53,6 +53,29 @@ def store_employment_data(df):
       blockchain.add_block(data)
 
   return blockchain 
+
+def store_temperature(df):
+  blockchain = Blockchain()
+
+  for _, row in df.iterrows():
+    data = {
+      'date': row.get('Date'),
+      'temperature': row.get('Value')
+    }
+    blockchain.add_block(data)
+  return blockchain
+
+def store_precipitation(df):
+  blockchain = Blockchain()
+  
+  for _, row in df.iterrows():
+    data = {
+      'date': row.get('Date'),
+      'precipitation': row.get('Value'),
+    }
+    blockchain.add_block(data)
+  return blockchain
+
 
 # sample usage
 if __name__ == "__main__":
