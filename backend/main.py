@@ -28,12 +28,29 @@ export_employment_chain_to_json(employmentBlockchain, 'fetchedData/employmentDat
 
 # Temperature block chaining
 temperature_df = pd.read_csv("data/temperature.csv", comment='#')
-temperature_df['Date'] = temperature_df['Date'].astype(str).str[:4] + '-' + temperature_df['Date'].astype(str).str[4:6]
+temperature_df['Date'] = pd.to_datetime(
+  temperature_df['Date'].astype(str).str[:4] + '-' + temperature_df['Date'].astype(str).str[4:6],
+  errors='coerce'
+)
+temperature_df = temperature_df[
+  (temperature_df['Date'] >= '2017-01-01') &
+  (temperature_df['Date'] <= pd.Timestamp.today())
+]
+temperature_df['Date'] = temperature_df['Date'].dt.strftime('%Y-%m')
 temperatureBlockchain = store_temperature(temperature_df)
 export_temperature_chain_to_json(temperatureBlockchain, 'fetchedData/temperatureData.json')
 
 # Precipitation block chaining
 precipitation_df = pd.read_csv("data/precipitation.csv", comment='#')
-precipitation_df['Date'] = precipitation_df['Date'].astype(str).str[:4] + '-' + precipitation_df['Date'].astype(str).str[4:6]
+precipitation_df['Date'] = pd.to_datetime(
+  precipitation_df['Date'].astype(str).str[:4] + '-' + precipitation_df['Date'].astype(str).str[4:6],
+  errors='coerce'
+)
+precipitation_df = precipitation_df[
+  (precipitation_df['Date'] >= '2017-01-01') & 
+  (precipitation_df['Date'] <= pd.Timestamp.today())
+]
+precipitation_df['Date'] = precipitation_df['Date'].dt.strftime('%Y-%m')
+
 precipitationBlockchain = store_precipitation(precipitation_df)
 export_precipitation_chain_to_json(precipitationBlockchain, 'fetchedData/precipitationData.json')

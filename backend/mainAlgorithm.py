@@ -3,6 +3,7 @@ import pandas as pd
 import zipfile
 import io
 import os
+from datetime import datetime
 from urllib.parse import urlparse, parse_qs
 
 def get_data(url):
@@ -22,19 +23,21 @@ def get_data(url):
     if not response.ok:
         raise Exception(f"Failed to fetch download link. Status: {response.status_code}\n{response.text}")
 
-    # Get the ZIP file URL
     zip_url = response.json()['object']
     print(f"📥 ZIP Download URL: {zip_url}")
 
-    # Download and unzip the file in memory
     zip_response = requests.get(zip_url)
     with zipfile.ZipFile(io.BytesIO(zip_response.content)) as z:
-        # Assume first file in zip is the CSV
         csv_filename = z.namelist()[0]
         print(f"📄 Extracting file: {csv_filename}")
         with z.open(csv_filename) as f:
             df = pd.read_csv(f)
             
+            df['Date'] = pd.to_datetime(df['REF_DATE'], errors='coerce')
+            start_date = datetime(2017, 1, 1) # remove data before Jan 2017 
+            end_date = datetime.today()
+            df = df[(df['Date'] >= start_date) & (df['Date'] <= end_date)]
+
     return df
 
 def save_csv_file(df, filename, directory='fetchedData'):
