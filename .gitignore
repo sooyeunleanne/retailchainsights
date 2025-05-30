@@ -6,7 +6,6 @@ __pycache__/
 env/
 venv/
 .venv/
-
 .vscode/
 
 # MacOS
@@ -16,7 +15,6 @@ Thumbs.db
 # Git
 *.swp
 
-data/
 fetchedData.csv
 fetchedData.json
 fetchedData/
